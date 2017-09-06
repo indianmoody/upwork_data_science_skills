@@ -1,0 +1,2169 @@
+,Job Tier,Job Type,Skill
+0,Intermediate,Fixed-Price,Python
+1,Expert,Hourly,Argus
+2,Expert,Hourly,Financial Analysis
+3,Expert,Hourly,Financial Modeling
+4,Expert,Hourly,Real Estate Appraisal
+5,Expert,Hourly,Real Estate IDX
+6,Expert,Hourly,Real Estate Law
+7,Expert,Hourly,Real Estate Management
+8,Expert,Hourly,Statistics
+9,Expert,Hourly,Financial Analysis
+10,Expert,Hourly,Financial Modeling
+11,Expert,Hourly,Financial Reporting
+12,Expert,Hourly,Mathematics
+13,Expert,Hourly,Microsoft Excel
+14,Expert,Hourly,Project Management
+15,Expert,Hourly,Quantitative Analysis
+16,Entry,Hourly,JavaScript
+17,Expert,Fixed-Price,Business Intelligence
+18,Expert,Fixed-Price,Data Modeling
+19,Expert,Fixed-Price,Data Visualization
+20,Expert,Fixed-Price,Microsoft Excel PowerPivot
+21,Expert,Fixed-Price,Tableau Software
+22,Entry,Hourly,Data Mining
+23,Expert,Fixed-Price,Gambling
+24,Expert,Fixed-Price,Mathematics
+25,Intermediate,Fixed-Price,Mathematics
+26,Intermediate,Fixed-Price,Microsoft Excel
+27,Expert,Fixed-Price,Machine Learning
+28,Expert,Fixed-Price,Natural Language Processing
+29,Expert,Fixed-Price,Sphinx
+30,Entry,Hourly,Data Entry
+31,Entry,Hourly,Data Scraping
+32,Entry,Hourly,Microsoft Excel
+33,Intermediate,Fixed-Price,Data Entry
+34,Intermediate,Fixed-Price,JavaScript
+35,Intermediate,Fixed-Price,MySQL Programming
+36,Intermediate,Fixed-Price,PDF Conversion
+37,Intermediate,Fixed-Price,PHP
+38,Intermediate,Fixed-Price,Python
+39,Intermediate,Fixed-Price,Website Development
+40,Expert,Fixed-Price,CRM
+41,Expert,Fixed-Price,Data Science
+42,Expert,Fixed-Price,Game Design
+43,Expert,Fixed-Price,Quantitative Analysis
+44,Entry,Hourly,Data Mining
+45,Entry,Hourly,Microsoft Excel
+46,Entry,Hourly,Data Entry
+47,Entry,Hourly,Lead Generation
+48,Entry,Hourly,Spreadsheets
+49,Entry,Hourly,Web Scraping
+50,Intermediate,Fixed-Price,Data Analytics
+51,Intermediate,Fixed-Price,Equity Research
+52,Intermediate,Fixed-Price,Financial Analysis
+53,Intermediate,Fixed-Price,Foreign Exchange Trading
+54,Intermediate,Fixed-Price,Machine Learning
+55,Intermediate,Fixed-Price,Quantitative Analysis
+56,Intermediate,Fixed-Price,Statistics
+57,Intermediate,Fixed-Price,Data Analytics
+58,Intermediate,Fixed-Price,Data Science
+59,Intermediate,Fixed-Price,Machine Learning
+60,Intermediate,Fixed-Price,Natural Language Processing
+61,Intermediate,Fixed-Price,Python
+62,Intermediate,Fixed-Price,R
+63,Entry,Hourly,Database Design
+64,Entry,Hourly,Microsoft Access Administration
+65,Entry,Hourly,Microsoft Access Programming
+66,Entry,Hourly,Microsoft Access Administration
+67,Entry,Hourly,Microsoft Access Programming
+68,Entry,Hourly,Microsoft Excel
+69,Entry,Fixed-Price,Administrative Support
+70,Entry,Fixed-Price,Data Entry
+71,Entry,Fixed-Price,Database Administration
+72,Entry,Fixed-Price,Database Design
+73,Entry,Fixed-Price,Internet Research
+74,Entry,Fixed-Price,Microsoft Excel
+75,Intermediate,Fixed-Price,Computer Skills
+76,Intermediate,Fixed-Price,Data Mining
+77,Intermediate,Fixed-Price,Microsoft Excel
+78,Intermediate,Fixed-Price,Telephone Handling
+79,Intermediate,Fixed-Price,Virtual Assistant
+80,Entry,Fixed-Price,Web Scraping
+81,Expert,Fixed-Price,JavaScript
+82,Expert,Fixed-Price,PHP
+83,Expert,Fixed-Price,Python
+84,Expert,Fixed-Price,Software Licensing
+85,Expert,Fixed-Price,Software Testing
+86,Intermediate,Fixed-Price,Data Entry
+87,Intermediate,Fixed-Price,Excel VBA
+88,Expert,Hourly,Microsoft Excel
+89,Expert,Hourly,Business Development
+90,Expert,Hourly,Data Scraping
+91,Expert,Hourly,Growth Hacking
+92,Expert,Hourly,Internet Research
+93,Expert,Hourly,Real Estate IDX
+94,Expert,Hourly,Real Estate Management
+95,Expert,Hourly,Sales
+96,Entry,Fixed-Price,Data Mining
+97,Entry,Fixed-Price,Data Scraping
+98,Entry,Fixed-Price,Internet Research
+99,Entry,Hourly,Qualtrics
+100,Entry,Hourly,Adobe PDF
+101,Entry,Hourly,Microsoft Excel
+102,Intermediate,Hourly,Adobe Photoshop
+103,Intermediate,Hourly,Data Entry
+104,Intermediate,Hourly,Data Extraction
+105,Intermediate,Hourly,Data Mining
+106,Intermediate,Hourly,Data Scraping
+107,Intermediate,Hourly,English
+108,Intermediate,Hourly,HTML
+109,Intermediate,Hourly,Internet Research
+110,Intermediate,Hourly,Microsoft Excel
+111,Intermediate,Hourly,Photo Editing
+112,Intermediate,Hourly,Photo Manipulation
+113,Intermediate,Hourly,Photo Retouching
+114,Intermediate,Hourly,Shopify
+115,Intermediate,Hourly,Web Scraping
+116,Intermediate,Fixed-Price,Project Management
+117,Entry,Hourly,SPARQL
+118,Intermediate,Fixed-Price,Academic Writing
+119,Intermediate,Fixed-Price,Data Analytics
+120,Intermediate,Fixed-Price,Data Modeling
+121,Intermediate,Fixed-Price,Econometrics
+122,Intermediate,Fixed-Price,IBM SPSS
+123,Intermediate,Fixed-Price,Quantitative Analysis
+124,Intermediate,Fixed-Price,Research Papers
+125,Intermediate,Fixed-Price,Statistics
+126,Expert,Fixed-Price,Data Science
+127,Expert,Fixed-Price,Python
+128,Expert,Fixed-Price,Statistics
+129,Expert,Fixed-Price,Deep Learning
+130,Expert,Fixed-Price,Python
+131,Expert,Fixed-Price,TensorFlow
+132,Expert,Hourly,Amazon MWS
+133,Expert,Hourly,Amazon Web Services
+134,Expert,Hourly,Amazon Webstore
+135,Expert,Hourly,API Development
+136,Expert,Hourly,Data Mining
+137,Intermediate,Hourly,Data Science
+138,Intermediate,Hourly,Machine Learning
+139,Intermediate,Hourly,Pandas
+140,Intermediate,Hourly,Python
+141,Intermediate,Hourly,Python Numpy
+142,Intermediate,Hourly,Python SciPy
+143,Intermediate,Hourly,Statistics
+144,Expert,Hourly,Computer Vision
+145,Expert,Hourly,Deep Neural Networks
+146,Expert,Hourly,Image Processing
+147,Expert,Hourly,OpenCV
+148,Expert,Fixed-Price,Machine Learning
+149,Expert,Fixed-Price,TensorFlow
+150,Expert,Fixed-Price,Amazon Relational Database Service
+151,Expert,Fixed-Price,Internet Research
+152,Expert,Fixed-Price,"""Extract, Transform and Load (ETL)"""
+153,Intermediate,Fixed-Price,Web Scraping
+154,Entry,Fixed-Price,Web Crawling
+155,Entry,Fixed-Price,Data Entry
+156,Entry,Fixed-Price,Data Mining
+157,Entry,Fixed-Price,Data Scraping
+158,Intermediate,Fixed-Price,Bioinformatics
+159,Intermediate,Fixed-Price,C
+160,Intermediate,Fixed-Price,C++
+161,Intermediate,Fixed-Price,Machine Learning
+162,Intermediate,Fixed-Price,Python
+163,Intermediate,Hourly,Algorithms
+164,Intermediate,Hourly,Data Science
+165,Intermediate,Hourly,Ruby
+166,Intermediate,Hourly,Statistics
+167,Intermediate,Hourly,Data Analytics
+168,Entry,Fixed-Price,Magento
+169,Entry,Fixed-Price,Microsoft Excel
+170,Intermediate,Fixed-Price,JSON
+171,Intermediate,Fixed-Price,MySQL Administration
+172,Intermediate,Fixed-Price,XML
+173,Expert,Fixed-Price,API Development
+174,Entry,Hourly,Data Entry
+175,Entry,Hourly,Data Mining
+176,Entry,Hourly,Data Scraping
+177,Entry,Hourly,Internet Research
+178,Entry,Hourly,Lead Generation
+179,Entry,Hourly,LinkedIn Recruiting
+180,Entry,Hourly,Recruiting
+181,Expert,Hourly,Data Visualization
+182,Expert,Hourly,Design Thinking
+183,Expert,Hourly,Infographics
+184,Expert,Hourly,Microsoft Excel
+185,Intermediate,Hourly,Bioinformatics
+186,Intermediate,Hourly,Biostatistics
+187,Intermediate,Hourly,Literature Review
+188,Intermediate,Fixed-Price,Microsoft Excel
+189,Expert,Hourly,Statistics
+190,Entry,Fixed-Price,Amazon Relational Database Service
+191,Entry,Fixed-Price,Google Apps
+192,Entry,Fixed-Price,Microsoft Excel
+193,Entry,Fixed-Price,Web Scraping
+194,Expert,Fixed-Price,Microsoft Access Administration
+195,Expert,Fixed-Price,Microsoft Access Programming
+196,Expert,Fixed-Price,Microsoft Excel
+197,Expert,Fixed-Price,Cartography & Maps
+198,Expert,Fixed-Price,Data Science
+199,Expert,Fixed-Price,Microsoft Excel
+200,Intermediate,Fixed-Price,Data Entry
+201,Intermediate,Fixed-Price,ICD Coding
+202,Intermediate,Fixed-Price,Medical Billing and Coding
+203,Intermediate,Fixed-Price,Medical Transcription
+204,Intermediate,Fixed-Price,Medical Writing
+205,Intermediate,Hourly,Data Entry
+206,Intermediate,Hourly,ICD Coding
+207,Intermediate,Hourly,Medical Billing and Coding
+208,Intermediate,Hourly,Medical Transcription
+209,Intermediate,Hourly,Medical Writing
+210,Expert,Fixed-Price,ICD Coding
+211,Expert,Fixed-Price,Medical Billing and Coding
+212,Expert,Fixed-Price,Medical Condition Coding
+213,Expert,Fixed-Price,Medical Procedure Coding
+214,Expert,Fixed-Price,Medical Records Research
+215,Intermediate,Hourly,Data Entry
+216,Intermediate,Hourly,Data Scraping
+217,Expert,Hourly,Financial Analysis
+218,Expert,Hourly,Financial Modeling
+219,Expert,Hourly,Financial Reporting
+220,Expert,Hourly,Mathematics
+221,Expert,Hourly,Microsoft Excel
+222,Expert,Hourly,Project Management
+223,Expert,Hourly,Quantitative Analysis
+224,Expert,Hourly,GitHub
+225,Expert,Hourly,RFID
+226,Intermediate,Hourly,Data Mining
+227,Intermediate,Hourly,Data Science
+228,Intermediate,Hourly,JavaFX
+229,Intermediate,Hourly,Machine Learning
+230,Intermediate,Fixed-Price,Calculus
+231,Intermediate,Fixed-Price,Econometrics
+232,Intermediate,Fixed-Price,Data Entry
+233,Intermediate,Fixed-Price,Data Mining
+234,Intermediate,Fixed-Price,Microsoft Excel
+235,Intermediate,Fixed-Price,Research
+236,Intermediate,Fixed-Price,Data Entry
+237,Intermediate,Fixed-Price,HTML
+238,Intermediate,Fixed-Price,OpenCart
+239,Intermediate,Hourly,"""Extract, Transform and Load (ETL)"""
+240,Intermediate,Hourly,Java
+241,Intermediate,Hourly,Pentaho
+242,Intermediate,Hourly,Python
+243,Intermediate,Hourly,Ubuntu
+244,Intermediate,Hourly,Business Intelligence
+245,Intermediate,Hourly,Data Analytics
+246,Intermediate,Hourly,Tableau Software
+247,Expert,Hourly,Business Intelligence
+248,Expert,Hourly,Data Visualization
+249,Expert,Hourly,Microsoft Power BI
+250,Expert,Hourly,Tableau Software
+251,Intermediate,Fixed-Price,Data Visualization
+252,Intermediate,Fixed-Price,Google Analytics
+253,Intermediate,Hourly,Copyediting
+254,Intermediate,Hourly,Editing
+255,Intermediate,Hourly,English Proofreading
+256,Intermediate,Fixed-Price,Database Design
+257,Intermediate,Fixed-Price,Database Programming
+258,Intermediate,Fixed-Price,Microsoft Access Programming
+259,Intermediate,Hourly,Apache Spark
+260,Intermediate,Hourly,Hadoop
+261,Intermediate,Hourly,Machine Learning
+262,Intermediate,Hourly,Python
+263,Entry,Hourly,Data Entry
+264,Entry,Hourly,Data Mining
+265,Entry,Hourly,Google Spreadsheets
+266,Entry,Hourly,Internet Research
+267,Intermediate,Hourly,Analytics
+268,Intermediate,Hourly,Data Analytics
+269,Intermediate,Hourly,Data Entry
+270,Intermediate,Hourly,Data Mining
+271,Intermediate,Hourly,Machine Learning
+272,Intermediate,Hourly,R
+273,Intermediate,Hourly,Statistical Computing
+274,Intermediate,Hourly,Statistics
+275,Intermediate,Hourly,Analytics
+276,Intermediate,Hourly,Data Entry
+277,Intermediate,Hourly,Data Mining
+278,Intermediate,Hourly,Quantitative Analysis
+279,Expert,Fixed-Price,Business Intelligence
+280,Expert,Fixed-Price,Data Analytics
+281,Expert,Fixed-Price,Data Modeling
+282,Expert,Fixed-Price,Data Visualization
+283,Expert,Fixed-Price,Excel VBA
+284,Expert,Fixed-Price,Microsoft Excel
+285,Expert,Fixed-Price,SQL
+286,Expert,Fixed-Price,Tableau Software
+287,Expert,Hourly,Artificial Intelligence
+288,Expert,Hourly,Machine Learning
+289,Entry,Hourly,Microsoft Excel
+290,Entry,Hourly,Microsoft Excel
+291,Entry,Hourly,Fashion Design
+292,Entry,Hourly,Illustration
+293,Entry,Hourly,Pattern Recognition
+294,Entry,Hourly,Sketching
+295,Entry,Hourly,Textile Engineering
+296,Entry,Hourly,Content Writing
+297,Entry,Hourly,Data Entry
+298,Entry,Hourly,Digital Video
+299,Entry,Hourly,Internet Research
+300,Entry,Hourly,Sports Writing
+301,Entry,Hourly,Statistics
+302,Entry,Hourly,Video Streaming
+303,Expert,Hourly,PostGIS
+304,Expert,Hourly,PostgreSQL Administration
+305,Expert,Hourly,PostgreSQL Programming
+306,Intermediate,Fixed-Price,Data Visualization
+307,Intermediate,Fixed-Price,Microsoft Excel
+308,Intermediate,Fixed-Price,Microsoft Power BI
+309,Intermediate,Fixed-Price,SQL
+310,Intermediate,Fixed-Price,Amazon Web Services
+311,Intermediate,Fixed-Price,Data Mining
+312,Intermediate,Fixed-Price,Data Science
+313,Intermediate,Fixed-Price,Deep Learning
+314,Intermediate,Fixed-Price,Machine Learning
+315,Intermediate,Fixed-Price,Python
+316,Intermediate,Fixed-Price,SQL
+317,Intermediate,Hourly,Database Design
+318,Intermediate,Hourly,Database Management
+319,Intermediate,Hourly,Web Scraping
+320,Intermediate,Hourly,Microsoft Excel
+321,Expert,Fixed-Price,Data Mining
+322,Expert,Fixed-Price,Research
+323,Intermediate,Hourly,Data Entry
+324,Intermediate,Hourly,Microsoft Excel
+325,Intermediate,Hourly,Spreadsheets
+326,Entry,Hourly,Internet Research
+327,Intermediate,Fixed-Price,Artificial Intelligence
+328,Intermediate,Fixed-Price,Artificial Neural Networks
+329,Intermediate,Fixed-Price,Computer Vision
+330,Intermediate,Fixed-Price,Deep Learning
+331,Intermediate,Fixed-Price,Image Processing
+332,Intermediate,Fixed-Price,Machine Learning
+333,Intermediate,Fixed-Price,Amazon MWS
+334,Intermediate,Fixed-Price,SQL
+335,Intermediate,Hourly,Analytics
+336,Intermediate,Hourly,Microsoft Power BI
+337,Intermediate,Hourly,SQL
+338,Intermediate,Hourly,SQL Azure
+339,Intermediate,Hourly,Microsoft Windows Azure
+340,Intermediate,Fixed-Price,Business Mathematics
+341,Intermediate,Fixed-Price,Gambling
+342,Intermediate,Fixed-Price,Game Design
+343,Intermediate,Fixed-Price,Google AdWords
+344,Intermediate,Fixed-Price,Google AdWords Development
+345,Entry,Hourly,Python
+346,Entry,Hourly,Python Numpy
+347,Entry,Hourly,Python SciPy
+348,Intermediate,Hourly,Algorithms
+349,Intermediate,Hourly,Amazon Webstore
+350,Intermediate,Hourly,Analytics
+351,Intermediate,Hourly,Data Mining
+352,Intermediate,Hourly,Data Science
+353,Intermediate,Hourly,Machine Learning
+354,Intermediate,Fixed-Price,Microsoft Excel
+355,Expert,Hourly,Financial Analysis
+356,Expert,Hourly,Financial Modeling
+357,Expert,Hourly,Financial Reporting
+358,Expert,Hourly,Mathematics
+359,Expert,Hourly,Microsoft Excel
+360,Expert,Hourly,Project Management
+361,Expert,Hourly,Quantitative Analysis
+362,Intermediate,Fixed-Price,Excel VBA
+363,Intermediate,Fixed-Price,Microsoft Excel
+364,Intermediate,Fixed-Price,VBA
+365,Entry,Fixed-Price,Business Analysis
+366,Entry,Fixed-Price,Data Mining
+367,Entry,Fixed-Price,Financial Analysis
+368,Entry,Fixed-Price,Internet Research
+369,Entry,Fixed-Price,Market Research
+370,Entry,Fixed-Price,Marketing Strategy
+371,Entry,Fixed-Price,Microsoft Excel
+372,Intermediate,Hourly,Data Mining
+373,Intermediate,Hourly,Internet Research
+374,Expert,Hourly,Argus
+375,Expert,Hourly,Financial Analysis
+376,Expert,Hourly,Financial Modeling
+377,Expert,Hourly,Real Estate Appraisal
+378,Expert,Hourly,Real Estate IDX
+379,Expert,Hourly,Real Estate Law
+380,Expert,Hourly,Real Estate Management
+381,Expert,Hourly,Statistics
+382,Expert,Hourly,Amazon Redshift
+383,Expert,Hourly,Data Visualization
+384,Expert,Hourly,Data Warehousing
+385,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+386,Expert,Hourly,Tableau Software
+387,Intermediate,Hourly,SAS
+388,Expert,Hourly,A/B Testing
+389,Expert,Hourly,Analytics
+390,Expert,Hourly,Conversion Rate Optimization
+391,Entry,Hourly,Scripting
+392,Intermediate,Fixed-Price,Artificial Neural Networks
+393,Intermediate,Fixed-Price,Data Mining
+394,Intermediate,Fixed-Price,Data Science
+395,Intermediate,Fixed-Price,Java
+396,Intermediate,Fixed-Price,Machine Learning
+397,Intermediate,Fixed-Price,Python
+398,Intermediate,Fixed-Price,TensorFlow
+399,Intermediate,Hourly,SQL
+400,Intermediate,Hourly,Transact-SQL
+401,Expert,Hourly,DevOps
+402,Expert,Fixed-Price,Amazon Redshift
+403,Expert,Fixed-Price,Data Visualization
+404,Expert,Fixed-Price,"""Extract, Transform and Load (ETL)"""
+405,Expert,Fixed-Price,Tableau Software
+406,Expert,Fixed-Price,R
+407,Expert,Hourly,Data Management
+408,Expert,Hourly,Internet Research
+409,Expert,Hourly,Microsoft Excel
+410,Expert,Hourly,Analytics
+411,Expert,Hourly,Big Data
+412,Expert,Hourly,Microsoft Server
+413,Expert,Hourly,Microsoft SQL Server Administration
+414,Expert,Hourly,Microsoft SQL Server Programming
+415,Expert,Hourly,SQL
+416,Expert,Hourly,SQL Azure
+417,Expert,Hourly,SQL Server Integration Services (SSIS)
+418,Expert,Hourly,Microsoft Windows Azure
+419,Entry,Fixed-Price,Algorithm Development
+420,Entry,Fixed-Price,Algorithms
+421,Entry,Fixed-Price,Data Science
+422,Entry,Fixed-Price,Machine Learning
+423,Entry,Fixed-Price,Python
+424,Entry,Hourly,Data Entry
+425,Entry,Hourly,Microsoft Excel
+426,Entry,Hourly,Research
+427,Intermediate,Hourly,Google AdWords
+428,Intermediate,Hourly,Google Analytics API
+429,Intermediate,Hourly,Google Docs API
+430,Entry,Hourly,Teaching Algebra
+431,Intermediate,Fixed-Price,Data Mining
+432,Intermediate,Fixed-Price,Data Scraping
+433,Intermediate,Fixed-Price,Internet Research
+434,Intermediate,Hourly,Computer Vision
+435,Intermediate,Hourly,MATLAB
+436,Intermediate,Hourly,OpenCV
+437,Expert,Hourly,Data Analytics
+438,Expert,Hourly,Google+
+439,Entry,Fixed-Price,Python
+440,Intermediate,Hourly,Apache Spark
+441,Intermediate,Hourly,Hadoop
+442,Intermediate,Hourly,Python
+443,Entry,Hourly,Amazon MWS
+444,Entry,Hourly,API Development
+445,Entry,Fixed-Price,Data Entry
+446,Entry,Fixed-Price,Internet Research
+447,Entry,Fixed-Price,Interviewing
+448,Entry,Fixed-Price,Lead Generation
+449,Entry,Fixed-Price,Microsoft Excel
+450,Entry,Hourly,Internet Research
+451,Intermediate,Hourly,Bioinformatics
+452,Intermediate,Hourly,Biology
+453,Intermediate,Hourly,Biotechnology
+454,Intermediate,Hourly,Data Mining
+455,Intermediate,Hourly,Genetic Engineering
+456,Expert,Hourly,Data Science
+457,Expert,Hourly,Conversion Rate Optimization
+458,Expert,Hourly,Google Analytics
+459,Expert,Fixed-Price,Data Analytics
+460,Expert,Fixed-Price,Market Research
+461,Expert,Fixed-Price,Microsoft Excel
+462,Expert,Fixed-Price,Quantitative Analysis
+463,Expert,Fixed-Price,Statistics
+464,Intermediate,Hourly,Financial Analysis
+465,Intermediate,Hourly,Foreign Exchange Trading
+466,Intermediate,Hourly,Quantitative Analysis
+467,Expert,Hourly,Machine Learning
+468,Expert,Hourly,Python
+469,Expert,Hourly,TensorFlow
+470,Intermediate,Hourly,Data Analytics
+471,Intermediate,Hourly,Statistics
+472,Intermediate,Hourly,Internet Research
+473,Intermediate,Hourly,Nutrition
+474,Intermediate,Hourly,Research
+475,Intermediate,Fixed-Price,Blue Sky Capital Strategies Portfolio Manager
+476,Intermediate,Fixed-Price,Portfolio Management
+477,Intermediate,Fixed-Price,Portfolio Performance Modeling
+478,Intermediate,Fixed-Price,Project Portfolio Management
+479,Intermediate,Fixed-Price,ArcGIS
+480,Intermediate,Fixed-Price,Artificial Intelligence
+481,Intermediate,Fixed-Price,Artificial Neural Networks
+482,Intermediate,Fixed-Price,Computer Vision
+483,Intermediate,Fixed-Price,Image Processing
+484,Intermediate,Fixed-Price,Machine Learning
+485,Intermediate,Fixed-Price,OpenCV
+486,Intermediate,Fixed-Price,Python
+487,Intermediate,Fixed-Price,QGIS
+488,Intermediate,Fixed-Price,Data Analytics
+489,Intermediate,Fixed-Price,Data Science
+490,Intermediate,Fixed-Price,Machine Learning
+491,Intermediate,Fixed-Price,Python
+492,Intermediate,Fixed-Price,Scikit-Learn
+493,Intermediate,Hourly,Article Writing
+494,Intermediate,Fixed-Price,API Development
+495,Intermediate,Fixed-Price,Application Programming
+496,Intermediate,Fixed-Price,Data Scraping
+497,Entry,Hourly,Data Entry
+498,Intermediate,Fixed-Price,Data Mining
+499,Intermediate,Fixed-Price,Data Scraping
+500,Intermediate,Fixed-Price,Lead Generation
+501,Intermediate,Hourly,Data Mining
+502,Intermediate,Hourly,Data Science
+503,Intermediate,Hourly,Data Visualization
+504,Intermediate,Hourly,Excel VBA
+505,Intermediate,Hourly,Quantitative Analysis
+506,Intermediate,Hourly,Zoho CRM
+507,Expert,Hourly,Big Data
+508,Expert,Hourly,Hadoop
+509,Expert,Hourly,MapReduce
+510,Expert,Fixed-Price,Data Analytics
+511,Expert,Fixed-Price,Data Entry
+512,Expert,Fixed-Price,Data Mining
+513,Expert,Fixed-Price,Data Scraping
+514,Expert,Fixed-Price,Microsoft Excel
+515,Intermediate,Hourly,Apache Hive
+516,Intermediate,Hourly,Apache Spark
+517,Intermediate,Hourly,Hadoop
+518,Expert,Fixed-Price,Algorithm Development
+519,Expert,Fixed-Price,Machine Learning
+520,Expert,Fixed-Price,Network Design
+521,Expert,Fixed-Price,Network Programming
+522,Expert,Hourly,Artificial Intelligence
+523,Expert,Hourly,Computer Vision
+524,Expert,Hourly,Deep Learning
+525,Expert,Hourly,Deep Neural Networks
+526,Expert,Hourly,Machine Learning
+527,Entry,Fixed-Price,Microsoft Excel
+528,Entry,Fixed-Price,Research
+529,Entry,Fixed-Price,Telephone Handling
+530,Intermediate,Hourly,Python
+531,Intermediate,Hourly,Data Visualization
+532,Intermediate,Hourly,Statistics
+533,Intermediate,Fixed-Price,Cognos
+534,Intermediate,Fixed-Price,Microsoft Access Programming
+535,Intermediate,Fixed-Price,Microsoft Excel
+536,Expert,Hourly,PostgreSQL Programming
+537,Expert,Fixed-Price,Data Scraping
+538,Expert,Fixed-Price,Microsoft Excel
+539,Entry,Hourly,Chrome OS
+540,Entry,Hourly,Data Extraction
+541,Entry,Hourly,Microsoft Excel
+542,Expert,Fixed-Price,API Development
+543,Expert,Fixed-Price,Chrome Extension
+544,Expert,Fixed-Price,Data Mining
+545,Expert,Fixed-Price,Data Science
+546,Expert,Fixed-Price,Data Scraping
+547,Expert,Fixed-Price,Firefox Plugin Development
+548,Expert,Fixed-Price,HTML
+549,Expert,Fixed-Price,HTML5
+550,Expert,Fixed-Price,JavaScript
+551,Expert,Fixed-Price,jQuery
+552,Expert,Fixed-Price,MySQL Programming
+553,Expert,Fixed-Price,PHP
+554,Expert,Fixed-Price,Python
+555,Expert,Fixed-Price,Ruby
+556,Expert,Fixed-Price,User Interface Design
+557,Expert,Fixed-Price,Web Design
+558,Expert,Fixed-Price,Web Scraping
+559,Expert,Fixed-Price,Website Development
+560,Expert,Fixed-Price,WordPress
+561,Entry,Fixed-Price,Excel VBA
+562,Entry,Fixed-Price,IMacros
+563,Entry,Fixed-Price,Microsoft Excel
+564,Entry,Fixed-Price,Microsoft Excel PowerPivot
+565,Expert,Fixed-Price,MongoDB
+566,Intermediate,Fixed-Price,Data Visualization
+567,Intermediate,Fixed-Price,Microsoft Power BI
+568,Intermediate,Fixed-Price,Tableau Software
+569,Entry,Hourly,Business Analysis
+570,Entry,Hourly,Economic Analysis
+571,Entry,Hourly,Economics
+572,Entry,Hourly,Financial Accounting
+573,Entry,Hourly,Financial Analysis
+574,Entry,Hourly,Financial Modeling
+575,Entry,Hourly,Financial Risk
+576,Entry,Hourly,Foreign Exchange Trading
+577,Entry,Hourly,Stock Management
+578,Entry,Fixed-Price,ASP.NET
+579,Entry,Fixed-Price,Business Analysis
+580,Entry,Fixed-Price,Data Mining
+581,Entry,Fixed-Price,MySQL Programming
+582,Entry,Fixed-Price,Data Mining
+583,Entry,Fixed-Price,English
+584,Entry,Fixed-Price,Web Scraping
+585,Intermediate,Hourly,Business Valuation
+586,Intermediate,Hourly,Corporate Finance
+587,Intermediate,Hourly,Econometrics
+588,Intermediate,Hourly,Financial Analysis
+589,Intermediate,Hourly,Financial Modeling
+590,Intermediate,Hourly,Mathematics
+591,Intermediate,Hourly,Microsoft Excel
+592,Intermediate,Hourly,Quantitative Analysis
+593,Intermediate,Hourly,Tutoring
+594,Expert,Fixed-Price,Budgeting & Forecasting
+595,Expert,Fixed-Price,Data Analytics
+596,Expert,Fixed-Price,Microsoft Excel
+597,Expert,Fixed-Price,Database Administration
+598,Expert,Fixed-Price,Database Caching
+599,Expert,Fixed-Price,Database Design
+600,Expert,Fixed-Price,Database Management
+601,Expert,Fixed-Price,Database Modeling
+602,Expert,Fixed-Price,Database Testing
+603,Expert,Fixed-Price,Microsoft Access Administration
+604,Expert,Fixed-Price,Microsoft Access Programming
+605,Intermediate,Hourly,Qualitative Research
+606,Intermediate,Hourly,Sales Presentations
+607,Expert,Hourly,Artificial Intelligence
+608,Expert,Hourly,Deep Learning
+609,Expert,Hourly,Deep Neural Networks
+610,Expert,Hourly,Machine Learning
+611,Expert,Hourly,TensorFlow
+612,Expert,Fixed-Price,Bitcoin
+613,Expert,Fixed-Price,Blockchain
+614,Expert,Fixed-Price,Ethereum
+615,Expert,Hourly,Academic Writing
+616,Expert,Hourly,Technical Writing
+617,Expert,Hourly,Bitcoin
+618,Expert,Hourly,Microsoft Excel
+619,Entry,Hourly,Data Entry
+620,Entry,Hourly,Data Mining
+621,Entry,Hourly,Data Scraping
+622,Entry,Hourly,Microsoft Excel
+623,Intermediate,Fixed-Price,Excel VBA
+624,Intermediate,Fixed-Price,Microsoft Excel
+625,Intermediate,Fixed-Price,Data Science
+626,Intermediate,Fixed-Price,Quantitative Analysis
+627,Intermediate,Fixed-Price,Statistics
+628,Expert,Fixed-Price,Microsoft Excel
+629,Expert,Fixed-Price,Statistics
+630,Expert,Hourly,Cloud Computing
+631,Expert,Hourly,Google Cloud Platform
+632,Expert,Hourly,Machine Learning
+633,Intermediate,Hourly,Data Science
+634,Intermediate,Hourly,Hadoop
+635,Intermediate,Hourly,Machine Learning
+636,Intermediate,Hourly,R-Hadoop
+637,Expert,Fixed-Price,Artificial Neural Networks
+638,Expert,Fixed-Price,Deep Learning
+639,Expert,Fixed-Price,Machine Learning
+640,Expert,Fixed-Price,Data Extraction
+641,Entry,Hourly,IBM SPSS
+642,Entry,Hourly,Microsoft Excel
+643,Intermediate,Hourly,Data Analytics
+644,Intermediate,Hourly,Data Science
+645,Intermediate,Hourly,Financial Analysis
+646,Intermediate,Hourly,Internet Research
+647,Intermediate,Hourly,Mathematics
+648,Intermediate,Hourly,Microsoft Excel
+649,Intermediate,Hourly,Statistics
+650,Expert,Hourly,Business Analysis
+651,Expert,Hourly,Data Visualization
+652,Expert,Hourly,SQL
+653,Intermediate,Hourly,Data Entry
+654,Intermediate,Hourly,Data Extraction
+655,Intermediate,Hourly,Data Scraping
+656,Intermediate,Hourly,Microsoft Excel
+657,Intermediate,Hourly,Web Scraping
+658,Intermediate,Fixed-Price,Microsoft Excel
+659,Intermediate,Fixed-Price,Microsoft Excel PowerPivot
+660,Intermediate,Fixed-Price,Microsoft Power BI
+661,Intermediate,Fixed-Price,Spanish
+662,Expert,Fixed-Price,Data Entry
+663,Expert,Fixed-Price,Data Mining
+664,Expert,Fixed-Price,Python
+665,Entry,Fixed-Price,Data Analytics
+666,Entry,Fixed-Price,JavaScript
+667,Entry,Fixed-Price,JSON
+668,Intermediate,Hourly,Web Crawling
+669,Intermediate,Hourly,Data Scraping
+670,Entry,Fixed-Price,Data Scraping
+671,Entry,Fixed-Price,Web Scraping
+672,Entry,Hourly,Data Mining
+673,Entry,Hourly,Data Science
+674,Intermediate,Hourly,Natural Language Processing
+675,Intermediate,Hourly,Python
+676,Intermediate,Hourly,Microsoft Access Programming
+677,Intermediate,Hourly,Microsoft Excel
+678,Intermediate,Hourly,Space Planning
+679,Expert,Hourly,Data Visualization
+680,Expert,Hourly,Design Thinking
+681,Entry,Fixed-Price,Data Entry
+682,Entry,Fixed-Price,Data Mining
+683,Entry,Fixed-Price,Microsoft Excel
+684,Entry,Fixed-Price,Virtual Assistant
+685,Entry,Hourly,Data Entry
+686,Entry,Hourly,Data Mining
+687,Entry,Hourly,Data Scraping
+688,Entry,Hourly,MailChimp
+689,Entry,Hourly,Zoho CRM
+690,Entry,Hourly,English
+691,Entry,Hourly,Microsoft Excel
+692,Intermediate,Fixed-Price,Content Writing
+693,Intermediate,Fixed-Price,Nutrition
+694,Intermediate,Fixed-Price,Physical Fitness
+695,Intermediate,Fixed-Price,C++
+696,Intermediate,Fixed-Price,Machine Learning
+697,Intermediate,Fixed-Price,OCR Algorithms
+698,Intermediate,Fixed-Price,OpenCV
+699,Expert,Hourly,Data Science
+700,Expert,Hourly,Data Visualization
+701,Expert,Hourly,Predictive Analytics
+702,Expert,Hourly,Quantitative Analysis
+703,Expert,Hourly,Statistics
+704,Intermediate,Fixed-Price,Web Scraping
+705,Entry,Fixed-Price,Microsoft Access Programming
+706,Entry,Fixed-Price,Microsoft Excel
+707,Intermediate,Hourly,Data Mining
+708,Intermediate,Hourly,Google Cloud Platform
+709,Intermediate,Hourly,Data Mining
+710,Expert,Hourly,Lean Manufacturing
+711,Expert,Hourly,Manufacturing
+712,Expert,Hourly,Master Production Schedule
+713,Expert,Hourly,Microsoft Access Programming
+714,Expert,Hourly,Microsoft Excel
+715,Expert,Hourly,Program Management
+716,Intermediate,Hourly,Data Mining
+717,Intermediate,Hourly,Data Science
+718,Intermediate,Hourly,Data Scraping
+719,Intermediate,Hourly,Internet Research
+720,Intermediate,Hourly,Research
+721,Expert,Hourly,Amazon Web Services
+722,Expert,Hourly,AWS Lambda
+723,Expert,Hourly,Chat Support
+724,Expert,Hourly,Chatbot Development
+725,Expert,Hourly,Email Handling
+726,Expert,Hourly,Natural Language Processing
+727,Expert,Hourly,Python
+728,Expert,Hourly,WordPress
+729,Entry,Fixed-Price,Google Maps API
+730,Intermediate,Hourly,Data Visualization
+731,Intermediate,Hourly,Highcharts
+732,Intermediate,Hourly,iDashboards
+733,Expert,Hourly,Deep Learning
+734,Expert,Hourly,Machine Learning
+735,Expert,Hourly,Python
+736,Expert,Hourly,TensorFlow
+737,Expert,Fixed-Price,Data Analytics
+738,Expert,Fixed-Price,Data Science
+739,Expert,Fixed-Price,Deep Learning
+740,Expert,Fixed-Price,Deep Neural Networks
+741,Expert,Fixed-Price,Machine Learning
+742,Expert,Fixed-Price,Python
+743,Expert,Fixed-Price,TensorFlow
+744,Intermediate,Fixed-Price,Data Mining
+745,Intermediate,Fixed-Price,Spreadsheets
+746,Intermediate,Hourly,Data Visualization
+747,Intermediate,Hourly,Microsoft Power BI
+748,Intermediate,Hourly,SQL
+749,Intermediate,Hourly,Data Analytics
+750,Intermediate,Hourly,DoubleClick for Publishers
+751,Intermediate,Hourly,Facebook Marketing
+752,Intermediate,Hourly,Google Analytics
+753,Intermediate,Hourly,WordPress
+754,Expert,Fixed-Price,Data Mining
+755,Expert,Fixed-Price,Data Scraping
+756,Expert,Fixed-Price,Microsoft Excel
+757,Intermediate,Hourly,Data Scraping
+758,Intermediate,Hourly,PHP
+759,Intermediate,Hourly,Web Design
+760,Entry,Hourly,Google Analytics
+761,Expert,Hourly,Artificial Intelligence
+762,Expert,Hourly,Computer Vision
+763,Expert,Hourly,Deep Learning
+764,Expert,Hourly,Deep Neural Networks
+765,Expert,Hourly,Machine Learning
+766,Expert,Hourly,TensorFlow
+767,Expert,Hourly,Data Analytics
+768,Expert,Hourly,Data Science
+769,Expert,Hourly,Excel VBA
+770,Expert,Hourly,Mathematics
+771,Expert,Hourly,Microsoft Excel
+772,Expert,Hourly,Quantitative Analysis
+773,Expert,Hourly,Statistics
+774,Expert,Hourly,Tableau Software
+775,Entry,Hourly,Administrative Support
+776,Entry,Hourly,Customer Service
+777,Entry,Hourly,Customer Support
+778,Entry,Hourly,Data Entry
+779,Entry,Hourly,Virtual Assistant
+780,Intermediate,Hourly,Data Science
+781,Intermediate,Hourly,Machine Learning
+782,Intermediate,Hourly,Python
+783,Intermediate,Hourly,R
+784,Expert,Fixed-Price,Geolocation
+785,Expert,Fixed-Price,JavaScript
+786,Expert,Fixed-Price,PHP
+787,Entry,Hourly,Python
+788,Entry,Hourly,Selenium
+789,Intermediate,Fixed-Price,Data Mining
+790,Intermediate,Fixed-Price,Data Scraping
+791,Intermediate,Fixed-Price,Email Deliverability
+792,Intermediate,Fixed-Price,Lead Generation
+793,Intermediate,Fixed-Price,Virtual Assistant
+794,Intermediate,Fixed-Price,Content Marketing
+795,Intermediate,Fixed-Price,Data Extraction
+796,Intermediate,Fixed-Price,Data Scraping
+797,Intermediate,Fixed-Price,Dataforma
+798,Intermediate,Fixed-Price,Python
+799,Intermediate,Fixed-Price,Scripting
+800,Intermediate,Fixed-Price,Content Management
+801,Intermediate,Fixed-Price,Web Scraping
+802,Entry,Hourly,MongoDB
+803,Entry,Hourly,Microsoft Excel
+804,Entry,Hourly,Microsoft Project
+805,Expert,Hourly,Bitcoin
+806,Expert,Hourly,Blockchain
+807,Expert,Hourly,Ethereum
+808,Entry,Hourly,Bitcoin
+809,Entry,Hourly,Foreign Exchange Trading
+810,Entry,Hourly,Python
+811,Intermediate,Fixed-Price,Data Mining
+812,Expert,Hourly,Data Mining
+813,Expert,Hourly,Data Science
+814,Expert,Hourly,Data Scraping
+815,Entry,Fixed-Price,Data Entry
+816,Entry,Fixed-Price,Financial Analysis
+817,Entry,Fixed-Price,Financial Modeling
+818,Entry,Fixed-Price,Internet Research
+819,Entry,Fixed-Price,Microsoft Excel
+820,Intermediate,Hourly,API Development
+821,Intermediate,Hourly,Data Extraction
+822,Intermediate,Hourly,Data Scraping
+823,Intermediate,Hourly,Web Scraping
+824,Intermediate,Hourly,Data Scraping
+825,Intermediate,Hourly,Web Scraping
+826,Entry,Hourly,Data Entry
+827,Entry,Hourly,Microsoft Excel
+828,Intermediate,Hourly,C#
+829,Intermediate,Hourly,Data Scraping
+830,Intermediate,Hourly,Web Scraping
+831,Entry,Hourly,Data Mining
+832,Entry,Hourly,Data Scraping
+833,Entry,Hourly,Lead Generation
+834,Entry,Hourly,Microsoft Excel
+835,Entry,Hourly,Data Entry
+836,Entry,Hourly,Data Mining
+837,Entry,Hourly,Microsoft Excel
+838,Entry,Hourly,Data Analytics
+839,Entry,Hourly,Data Mining
+840,Entry,Hourly,Internet Research
+841,Entry,Hourly,Market Research
+842,Intermediate,Fixed-Price,Data Mining
+843,Intermediate,Fixed-Price,Lead Generation
+844,Intermediate,Fixed-Price,LinkedIn Development
+845,Expert,Hourly,Data Analytics
+846,Expert,Hourly,Internet of Things
+847,Expert,Hourly,Mathematics
+848,Expert,Hourly,C++
+849,Expert,Hourly,MATLAB
+850,Entry,Hourly,CRM
+851,Entry,Hourly,Data Entry
+852,Entry,Hourly,Data Mining
+853,Entry,Hourly,Lead Generation
+854,Entry,Hourly,Market Research
+855,Intermediate,Hourly,Web Scraping
+856,Intermediate,Fixed-Price,Data Entry
+857,Intermediate,Fixed-Price,Email Marketing
+858,Intermediate,Fixed-Price,English Grammar
+859,Intermediate,Fixed-Price,Internet Research
+860,Entry,Hourly,Data Mining
+861,Entry,Hourly,LexisNexis Accurint
+862,Entry,Hourly,Microsoft Excel
+863,Expert,Hourly,Data Mining
+864,Expert,Hourly,Data Science
+865,Expert,Hourly,Statistics
+866,Entry,Hourly,Data Entry
+867,Entry,Hourly,Microsoft Excel
+868,Entry,Fixed-Price,Data Mining
+869,Expert,Fixed-Price,Apache Spark
+870,Expert,Fixed-Price,Core Java
+871,Expert,Fixed-Price,"""Extract, Transform and Load (ETL)"""
+872,Expert,Fixed-Price,Hadoop
+873,Entry,Hourly,English
+874,Entry,Hourly,Turkish
+875,Intermediate,Fixed-Price,Elasticsearch
+876,Intermediate,Fixed-Price,Hadoop
+877,Intermediate,Fixed-Price,logstash
+878,Intermediate,Fixed-Price,NoSQL
+879,Intermediate,Fixed-Price,PHP
+880,Intermediate,Fixed-Price,Web Design
+881,Intermediate,Fixed-Price,Website Development
+882,Expert,Hourly,Python
+883,Expert,Hourly,R
+884,Expert,Hourly,Scikit-Learn
+885,Expert,Fixed-Price,MATLAB
+886,Expert,Fixed-Price,Statistical Computing
+887,Expert,Fixed-Price,Statistics
+888,Entry,Hourly,Financial Accounting
+889,Entry,Hourly,Microsoft Excel
+890,Expert,Fixed-Price,Data Entry
+891,Expert,Fixed-Price,Data Mining
+892,Expert,Fixed-Price,Data Science
+893,Expert,Fixed-Price,Data Scraping
+894,Expert,Fixed-Price,Internet Research
+895,Expert,Fixed-Price,Microsoft Excel
+896,Expert,Fixed-Price,Web Scraping
+897,Intermediate,Fixed-Price,SQL
+898,Intermediate,Fixed-Price,Microsoft Windows Azure
+899,Entry,Hourly,Voice Over
+900,Intermediate,Hourly,Kibana
+901,Intermediate,Fixed-Price,Design Thinking
+902,Intermediate,Fixed-Price,Jupyter
+903,Intermediate,Fixed-Price,Python
+904,Intermediate,Fixed-Price,Systems Development
+905,Intermediate,Fixed-Price,Data Science
+906,Intermediate,Fixed-Price,Machine Learning
+907,Intermediate,Fixed-Price,Python
+908,Intermediate,Fixed-Price,Statistics
+909,Intermediate,Fixed-Price,TensorFlow
+910,Intermediate,Hourly,Data Scraping
+911,Intermediate,Fixed-Price,Article Writing
+912,Intermediate,Fixed-Price,Content Writing
+913,Intermediate,Fixed-Price,Intellectual Property Law
+914,Intermediate,Fixed-Price,Patent Law
+915,Expert,Hourly,Data Analytics
+916,Expert,Hourly,Electronic Design
+917,Expert,Hourly,Embedded Systems
+918,Intermediate,Fixed-Price,Excel VBA
+919,Intermediate,Fixed-Price,Microsoft Excel
+920,Intermediate,Hourly,Data Entry
+921,Intermediate,Hourly,Market Research
+922,Intermediate,Hourly,Real Estate Appraisal
+923,Intermediate,Hourly,Real Estate Management
+924,Intermediate,Hourly,Trusts Estates and Wills
+925,Intermediate,Fixed-Price,Data Entry
+926,Intermediate,Fixed-Price,Data Scraping
+927,Intermediate,Fixed-Price,Database Design
+928,Expert,Fixed-Price,C#
+929,Expert,Fixed-Price,Cloud Computing
+930,Expert,Fixed-Price,Digital Signal Processing
+931,Expert,Fixed-Price,Mobile Programming
+932,Expert,Hourly,Data Collection
+933,Expert,Hourly,Data Mining
+934,Expert,Hourly,Data Science
+935,Expert,Hourly,Data Scraping
+936,Expert,Hourly,Data Visualization
+937,Expert,Hourly,Python
+938,Expert,Hourly,Quantitative Analysis
+939,Expert,Hourly,Research
+940,Expert,Hourly,SQL Programming
+941,Expert,Hourly,Tableau Software
+942,Entry,Fixed-Price,Data Mining
+943,Entry,Fixed-Price,Data Scraping
+944,Entry,Fixed-Price,Data Entry
+945,Entry,Fixed-Price,Google Docs
+946,Entry,Fixed-Price,Internet Research
+947,Intermediate,Hourly,Data Entry
+948,Intermediate,Hourly,Data Mining
+949,Intermediate,Hourly,Internet Research
+950,Intermediate,Hourly,Virtual Assistant
+951,Expert,Hourly,Amazon Relational Database Service
+952,Expert,Hourly,Amazon Web Services
+953,Expert,Hourly,Amazon Webstore
+954,Expert,Hourly,API Development
+955,Expert,Hourly,Artificial Intelligence
+956,Expert,Hourly,Data Analytics
+957,Expert,Hourly,Data Mining
+958,Expert,Hourly,Database Cataloguing
+959,Expert,Hourly,Database Design
+960,Expert,Hourly,Google Apps
+961,Expert,Hourly,Machine Learning
+962,Expert,Hourly,Scripting
+963,Expert,Hourly,Tableau Software
+964,Expert,Hourly,Trend Analysis
+965,Expert,Hourly,Web Scraping
+966,Expert,Hourly,Zapier
+967,Entry,Hourly,Data Entry
+968,Entry,Hourly,Microsoft Excel
+969,Expert,Fixed-Price,Accounting
+970,Expert,Fixed-Price,Capital Markets
+971,Expert,Fixed-Price,Excel VBA
+972,Expert,Fixed-Price,Financial Analysis
+973,Expert,Fixed-Price,Internet Research
+974,Expert,Fixed-Price,Machine Learning
+975,Expert,Fixed-Price,Predictive Analytics
+976,Expert,Fixed-Price,Python
+977,Expert,Fixed-Price,Regression Testing
+978,Expert,Fixed-Price,Statistics
+979,Intermediate,Fixed-Price,Chatbot Development
+980,Intermediate,Fixed-Price,Node.js
+981,Entry,Hourly,Data Extraction
+982,Entry,Hourly,Data Mining
+983,Entry,Hourly,Data Scraping
+984,Entry,Hourly,Microsoft Excel
+985,Intermediate,Hourly,Data Scraping
+986,Intermediate,Hourly,Database Design
+987,Intermediate,Hourly,MySQL Programming
+988,Intermediate,Hourly,Python
+989,Intermediate,Hourly,Web Scraping
+990,Entry,Hourly,Data Entry
+991,Entry,Hourly,Data Mining
+992,Entry,Hourly,Data Scraping
+993,Entry,Hourly,Internet Research
+994,Entry,Hourly,Microsoft Excel
+995,Intermediate,Fixed-Price,Data Analytics
+996,Intermediate,Fixed-Price,Data Visualization
+997,Intermediate,Fixed-Price,Microsoft Excel
+998,Intermediate,Fixed-Price,Microsoft Excel PowerPivot
+999,Intermediate,Fixed-Price,Microsoft Power BI
+1000,Intermediate,Fixed-Price,Data Entry
+1001,Intermediate,Fixed-Price,English
+1002,Intermediate,Fixed-Price,Internet Research
+1003,Intermediate,Fixed-Price,Microsoft Excel
+1004,Expert,Hourly,API Development
+1005,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1006,Expert,Hourly,ArcGIS
+1007,Expert,Hourly,Cartography & Maps
+1008,Expert,Hourly,Data Entry
+1009,Expert,Hourly,Geospatial
+1010,Expert,Hourly,Geographic Information System (GIS)
+1011,Expert,Hourly,Internet Research
+1012,Expert,Hourly,Microsoft Excel
+1013,Intermediate,Fixed-Price,Data Encoding
+1014,Intermediate,Fixed-Price,Qualitative Research
+1015,Intermediate,Hourly,ClickFunnels
+1016,Intermediate,Hourly,Conversion Rate Optimization
+1017,Intermediate,Hourly,Facebook Marketing
+1018,Intermediate,Hourly,Shopify
+1019,Expert,Fixed-Price,Mapr
+1020,Intermediate,Hourly,Microsoft Excel
+1021,Intermediate,Fixed-Price,Data Mining
+1022,Intermediate,Fixed-Price,Database Design
+1023,Intermediate,Fixed-Price,Investigative Reporting
+1024,Intermediate,Fixed-Price,Web Scraping
+1025,Expert,Hourly,Excel VBA
+1026,Expert,Hourly,Microsoft Excel
+1027,Expert,Hourly,Microsoft Excel PowerPivot
+1028,Expert,Hourly,Microsoft Power BI
+1029,Intermediate,Fixed-Price,Microsoft Excel
+1030,Intermediate,Fixed-Price,Data Scraping
+1031,Intermediate,Hourly,Excel VBA
+1032,Intermediate,Hourly,IMacros
+1033,Intermediate,Hourly,Microsoft Access Administration
+1034,Intermediate,Hourly,Microsoft Access Programming
+1035,Intermediate,Hourly,Visual Basic
+1036,Intermediate,Hourly,VBA
+1037,Intermediate,Fixed-Price,Data Entry
+1038,Intermediate,Fixed-Price,Database Management
+1039,Intermediate,Fixed-Price,Research
+1040,Intermediate,Fixed-Price,Data Scraping
+1041,Expert,Fixed-Price,Data Analytics
+1042,Expert,Fixed-Price,Data Visualization
+1043,Expert,Fixed-Price,Mobile UI Design
+1044,Expert,Fixed-Price,Natural Language Processing
+1045,Expert,Fixed-Price,Tableau Software
+1046,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1047,Expert,Hourly,SAP Business Objects
+1048,Expert,Hourly,SQL
+1049,Expert,Hourly,Tableau Software
+1050,Expert,Hourly,Google Analytics
+1051,Expert,Hourly,Google Analytics API
+1052,Expert,Hourly,Microsoft Excel
+1053,Expert,Hourly,R
+1054,Intermediate,Fixed-Price,Data Mining
+1055,Intermediate,Fixed-Price,HTML5
+1056,Intermediate,Fixed-Price,JavaScript
+1057,Intermediate,Fixed-Price,Natural Language Processing
+1058,Intermediate,Fixed-Price,Textpattern
+1059,Intermediate,Hourly,A/B Testing
+1060,Intermediate,Hourly,User Experience Design
+1061,Intermediate,Fixed-Price,Data Mining
+1062,Intermediate,Fixed-Price,Lead Generation
+1063,Intermediate,Fixed-Price,LexisNexis Accurint
+1064,Expert,Hourly,Excel VBA
+1065,Expert,Hourly,Microsoft Access Programming
+1066,Expert,Hourly,Microsoft SQL Server Administration
+1067,Expert,Hourly,SQL
+1068,Expert,Hourly,VBA
+1069,Intermediate,Hourly,Data Mining
+1070,Intermediate,Hourly,Data Science
+1071,Intermediate,Hourly,Machine Learning
+1072,Intermediate,Fixed-Price,LaTeX
+1073,Intermediate,Fixed-Price,Mathematics
+1074,Intermediate,Fixed-Price,Microsoft Excel
+1075,Expert,Fixed-Price,Data Analytics
+1076,Expert,Fixed-Price,Data Interpretation
+1077,Expert,Fixed-Price,Data Science
+1078,Expert,Fixed-Price,Data Visualization
+1079,Expert,Fixed-Price,Machine Learning
+1080,Expert,Fixed-Price,Predictive Analytics
+1081,Expert,Fixed-Price,Statistics
+1082,Expert,Fixed-Price,Data Mining
+1083,Intermediate,Fixed-Price,Data Analytics
+1084,Intermediate,Fixed-Price,Data Visualization
+1085,Intermediate,Fixed-Price,Tableau Software
+1086,Entry,Hourly,Data Entry
+1087,Entry,Hourly,Data Mining
+1088,Entry,Hourly,Internet Research
+1089,Entry,Hourly,Microsoft Excel
+1090,Intermediate,Hourly,Microsoft Excel
+1091,Expert,Fixed-Price,Business Intelligence
+1092,Expert,Fixed-Price,Microsoft Business Intelligence Studio
+1093,Expert,Fixed-Price,Web Crawling
+1094,Expert,Fixed-Price,Microsoft Excel
+1095,Expert,Fixed-Price,Python
+1096,Expert,Fixed-Price,Web Scraping
+1097,Expert,Fixed-Price,Geolocation
+1098,Expert,Fixed-Price,Google Maps API
+1099,Expert,Fixed-Price,HTML5
+1100,Expert,Fixed-Price,PHP
+1101,Intermediate,Fixed-Price,ASP.NET
+1102,Intermediate,Fixed-Price,C#
+1103,Intermediate,Fixed-Price,Database Design
+1104,Intermediate,Fixed-Price,"""Extract, Transform and Load (ETL)"""
+1105,Intermediate,Fixed-Price,Python
+1106,Intermediate,Fixed-Price,SQL
+1107,Intermediate,Fixed-Price,SQL Azure
+1108,Entry,Fixed-Price,Analytics
+1109,Entry,Fixed-Price,Chemistry
+1110,Expert,Hourly,API Documentation
+1111,Expert,Hourly,Chatbot Development
+1112,Expert,Hourly,IBM Bluemix
+1113,Expert,Hourly,IBM Watson
+1114,Expert,Hourly,Machine Learning
+1115,Expert,Hourly,Natural Language Processing
+1116,Expert,Hourly,Python
+1117,Expert,Fixed-Price,MetaTrader 4 (MT4)
+1118,Entry,Hourly,Python
+1119,Expert,Fixed-Price,Alibaba Sourcing
+1120,Expert,Fixed-Price,Amazon Webstore
+1121,Expert,Fixed-Price,Market Research
+1122,Intermediate,Fixed-Price,Embedded Systems
+1123,Intermediate,Fixed-Price,Machine Learning
+1124,Intermediate,Fixed-Price,Raspberry Pi
+1125,Expert,Hourly,A/B Testing
+1126,Expert,Hourly,Conversion Rate Optimization
+1127,Intermediate,Fixed-Price,Excel VBA
+1128,Intermediate,Fixed-Price,IMacros
+1129,Entry,Hourly,Bitcoin
+1130,Entry,Hourly,Blockchain
+1131,Entry,Hourly,Ethereum
+1132,Intermediate,Hourly,Content Writing
+1133,Intermediate,Hourly,Proofreading
+1134,Intermediate,Hourly,Writing
+1135,Intermediate,Hourly,Automotive Engineering
+1136,Intermediate,Hourly,Data Science
+1137,Intermediate,Hourly,Mathematics
+1138,Intermediate,Hourly,Mechanical Engineering
+1139,Intermediate,Hourly,Mechatronics
+1140,Intermediate,Hourly,Physics
+1141,Intermediate,Hourly,Amazon Web Services
+1142,Intermediate,Hourly,Amazon Webstore
+1143,Intermediate,Hourly,Article Writing
+1144,Intermediate,Hourly,Content Writing
+1145,Intermediate,Hourly,eBay Listing/Writing
+1146,Intermediate,Hourly,eBay Marketing
+1147,Intermediate,Hourly,SEO Keyword Research
+1148,Intermediate,Hourly,Website Development
+1149,Entry,Hourly,Data Science
+1150,Entry,Hourly,Data Visualization
+1151,Entry,Hourly,Microsoft Power BI
+1152,Expert,Hourly,Apache Spark
+1153,Expert,Hourly,Apache Cassandra
+1154,Expert,Fixed-Price,Instagram API
+1155,Expert,Fixed-Price,Twitter API
+1156,Expert,Fixed-Price,Web Scraping
+1157,Expert,Fixed-Price,Calculus
+1158,Expert,Fixed-Price,Mathematics
+1159,Entry,Fixed-Price,Data Entry
+1160,Entry,Fixed-Price,PhantomJS
+1161,Entry,Fixed-Price,Python
+1162,Intermediate,Hourly,Artificial Intelligence
+1163,Intermediate,Hourly,Bot Development
+1164,Intermediate,Hourly,Chatbot Development
+1165,Intermediate,Hourly,Data Analytics
+1166,Intermediate,Hourly,Data Science
+1167,Intermediate,Hourly,Machine Learning
+1168,Intermediate,Hourly,Microsoft Visual Studio
+1169,Intermediate,Hourly,Natural Language Processing
+1170,Intermediate,Hourly,Statistics
+1171,Intermediate,Hourly,Twilio API
+1172,Intermediate,Fixed-Price,Analytics
+1173,Intermediate,Fixed-Price,Android
+1174,Intermediate,Fixed-Price,Chrome Extension
+1175,Intermediate,Fixed-Price,Data Extraction
+1176,Intermediate,Fixed-Price,"""Extract, Transform and Load (ETL)"""
+1177,Intermediate,Fixed-Price,iOS Development
+1178,Intermediate,Hourly,Data Science
+1179,Intermediate,Hourly,Mathematics
+1180,Intermediate,Hourly,Statistics
+1181,Expert,Hourly,Domo
+1182,Intermediate,Hourly,Analytics
+1183,Intermediate,Hourly,Microsoft Excel
+1184,Entry,Fixed-Price,Data Mining
+1185,Entry,Fixed-Price,Data Scraping
+1186,Entry,Fixed-Price,Internet Research
+1187,Entry,Fixed-Price,Research
+1188,Intermediate,Fixed-Price,.NET Framework
+1189,Entry,Fixed-Price,Internet Research
+1190,Entry,Fixed-Price,Microsoft Excel
+1191,Entry,Fixed-Price,Virtual Assistant
+1192,Entry,Fixed-Price,Data Entry
+1193,Intermediate,Hourly,Amazon EC2
+1194,Intermediate,Hourly,Amazon Web Services
+1195,Intermediate,Hourly,Big Data
+1196,Intermediate,Hourly,Apache Hive
+1197,Intermediate,Hourly,Apache Spark
+1198,Intermediate,Hourly,Big Data
+1199,Intermediate,Hourly,Data Science
+1200,Intermediate,Hourly,Hadoop
+1201,Intermediate,Hourly,Java
+1202,Intermediate,Hourly,Machine Learning
+1203,Intermediate,Hourly,Python
+1204,Intermediate,Hourly,R
+1205,Expert,Fixed-Price,PHP
+1206,Intermediate,Hourly,Microsoft Power BI
+1207,Intermediate,Hourly,SAP
+1208,Intermediate,Hourly,SQL
+1209,Expert,Hourly,Data Mining
+1210,Expert,Hourly,Data Science
+1211,Expert,Hourly,Data Scraping
+1212,Expert,Hourly,Data Visualization
+1213,Expert,Hourly,Python
+1214,Expert,Hourly,Quantitative Analysis
+1215,Expert,Hourly,Research
+1216,Expert,Hourly,SQL Programming
+1217,Expert,Fixed-Price,API Development
+1218,Expert,Fixed-Price,C
+1219,Expert,Fixed-Price,Python
+1220,Expert,Fixed-Price,Quantitative Analysis
+1221,Expert,Fixed-Price,Unix Shell
+1222,Expert,Fixed-Price,Amazon EC2
+1223,Expert,Fixed-Price,Amazon S3
+1224,Expert,Fixed-Price,Amazon Web Services
+1225,Expert,Fixed-Price,AWS Lambda
+1226,Expert,Fixed-Price,Cloud Computing
+1227,Expert,Fixed-Price,CRM
+1228,Expert,Fixed-Price,Data Backup
+1229,Expert,Fixed-Price,Google Cloud Platform
+1230,Intermediate,Hourly,Conversion Rate Optimization
+1231,Intermediate,Hourly,Data Mining
+1232,Intermediate,Hourly,Google Analytics
+1233,Intermediate,Hourly,On-Page Optimization
+1234,Intermediate,Hourly,Optimizely
+1235,Entry,Hourly,Appointment Setting
+1236,Entry,Hourly,Customer Service
+1237,Entry,Hourly,Data Encoding
+1238,Entry,Hourly,Technical Support
+1239,Entry,Hourly,Virtual Assistant
+1240,Expert,Hourly,CMS Development
+1241,Expert,Hourly,Google AdWords
+1242,Expert,Hourly,Google AdWords Development
+1243,Expert,Hourly,Google Analytics
+1244,Intermediate,Fixed-Price,Data Mining
+1245,Intermediate,Fixed-Price,Internet Research
+1246,Intermediate,Fixed-Price,Lead Generation
+1247,Intermediate,Fixed-Price,Web Scraping
+1248,Expert,Hourly,AJAX
+1249,Expert,Hourly,ASP.NET
+1250,Expert,Hourly,C#
+1251,Expert,Hourly,jQuery
+1252,Expert,Hourly,Microsoft Visual Studio
+1253,Intermediate,Fixed-Price,Analytics
+1254,Intermediate,Fixed-Price,Functional Testing
+1255,Intermediate,Fixed-Price,Google+
+1256,Intermediate,Fixed-Price,Mobile App Testing
+1257,Intermediate,Fixed-Price,Usability Testing
+1258,Intermediate,Hourly,Adobe Photoshop
+1259,Intermediate,Hourly,Amazon Web Services
+1260,Intermediate,Hourly,eBay Listing/Writing
+1261,Intermediate,Hourly,Image Editing
+1262,Intermediate,Hourly,Microsoft Excel
+1263,Expert,Fixed-Price,Automation
+1264,Expert,Fixed-Price,Excel VBA
+1265,Expert,Fixed-Price,Microsoft Access Programming
+1266,Expert,Fixed-Price,R
+1267,Expert,Fixed-Price,VBA
+1268,Expert,Hourly,Data Analytics
+1269,Expert,Hourly,MySQL Programming
+1270,Intermediate,Fixed-Price,Data Extraction
+1271,Intermediate,Fixed-Price,Data Scraping
+1272,Intermediate,Fixed-Price,Microsoft Excel
+1273,Entry,Fixed-Price,Data Entry
+1274,Expert,Fixed-Price,API Development
+1275,Expert,Fixed-Price,Data Visualization
+1276,Expert,Fixed-Price,SQL
+1277,Expert,Fixed-Price,Tableau Software
+1278,Entry,Hourly,Web Scraping
+1279,Expert,Hourly,Data Extraction
+1280,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1281,Expert,Hourly,Facebook Javascript (FBJS)
+1282,Expert,Hourly,Google Analytics API
+1283,Expert,Hourly,PHP
+1284,Expert,Hourly,Python
+1285,Expert,Hourly,Cisco CallManager
+1286,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1287,Intermediate,Fixed-Price,Mathematics
+1288,Intermediate,Hourly,Data Entry
+1289,Intermediate,Hourly,Data Management
+1290,Intermediate,Hourly,Data Mining
+1291,Intermediate,Hourly,Microsoft Excel
+1292,Entry,Hourly,Data Analytics
+1293,Entry,Hourly,IBM SPSS
+1294,Intermediate,Fixed-Price,Internet Research
+1295,Intermediate,Fixed-Price,Interviewing
+1296,Entry,Fixed-Price,Python
+1297,Entry,Hourly,Data Analytics
+1298,Entry,Hourly,Data Collection
+1299,Entry,Hourly,Data Entry
+1300,Entry,Hourly,Data Mining
+1301,Entry,Hourly,Google Search
+1302,Entry,Hourly,HubSpot
+1303,Entry,Hourly,Internet Research
+1304,Entry,Hourly,Lead Generation
+1305,Entry,Hourly,Social Media Marketing
+1306,Entry,Hourly,Website Analytics
+1307,Intermediate,Fixed-Price,Data Scraping
+1308,Intermediate,Fixed-Price,Python
+1309,Intermediate,Fixed-Price,Scrapy
+1310,Intermediate,Fixed-Price,Web Scraping
+1311,Expert,Hourly,Amazon S3
+1312,Expert,Hourly,Apache Hive
+1313,Expert,Hourly,Big Data
+1314,Expert,Hourly,Hadoop
+1315,Expert,Hourly,Internet Research
+1316,Expert,Hourly,Inventory Management
+1317,Expert,Hourly,Shopify
+1318,Expert,Hourly,Salesforce.com
+1319,Entry,Hourly,Data Entry
+1320,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1321,Expert,Hourly,Machine Learning
+1322,Expert,Hourly,Natural Language Processing
+1323,Expert,Hourly,Python
+1324,Expert,Hourly,SQL
+1325,Intermediate,Hourly,Data Entry
+1326,Intermediate,Hourly,Google Places API
+1327,Intermediate,Hourly,Internet Research
+1328,Intermediate,Hourly,Microsoft Excel
+1329,Entry,Hourly,English
+1330,Entry,Fixed-Price,Data Entry
+1331,Intermediate,Hourly,Ggplot2
+1332,Intermediate,Hourly,R
+1333,Entry,Hourly,Foreign Exchange Trading
+1334,Entry,Hourly,Investment Research
+1335,Entry,Hourly,Machine Learning
+1336,Entry,Hourly,Python
+1337,Entry,Hourly,Statistics
+1338,Entry,Hourly,TensorFlow
+1339,Intermediate,Hourly,Analytics
+1340,Intermediate,Hourly,Data Analytics
+1341,Intermediate,Hourly,Data Visualization
+1342,Intermediate,Hourly,Google Analytics
+1343,Intermediate,Hourly,Google Analytics API
+1344,Intermediate,Hourly,Microsoft Excel
+1345,Intermediate,Hourly,Microsoft Excel PowerPivot
+1346,Intermediate,Hourly,Microsoft Power BI
+1347,Intermediate,Hourly,SQL Azure
+1348,Intermediate,Hourly,Microsoft Windows Azure
+1349,Expert,Fixed-Price,Machine Learning
+1350,Entry,Hourly,Data Mining
+1351,Entry,Hourly,Data Scraping
+1352,Entry,Hourly,Data Science
+1353,Entry,Hourly,MySQL Programming
+1354,Entry,Hourly,Website Development
+1355,Intermediate,Hourly,CUDA
+1356,Intermediate,Hourly,Python
+1357,Entry,Hourly,Microsoft Excel
+1358,Entry,Hourly,Microsoft PowerPoint
+1359,Entry,Hourly,Salesforce.com
+1360,Entry,Fixed-Price,Data Mining
+1361,Entry,Fixed-Price,Google Search
+1362,Entry,Fixed-Price,Microsoft Excel
+1363,Intermediate,Hourly,Data Visualization
+1364,Intermediate,Hourly,Tableau Software
+1365,Intermediate,Fixed-Price,Intuit QuickBooks
+1366,Intermediate,Fixed-Price,Salesforce.com
+1367,Expert,Fixed-Price,Excel VBA
+1368,Expert,Fixed-Price,Microsoft Excel
+1369,Expert,Fixed-Price,VBA
+1370,Intermediate,Hourly,Microsoft Power BI
+1371,Intermediate,Hourly,Microsoft SQL Server Administration
+1372,Intermediate,Hourly,Adobe Business Catalyst
+1373,Intermediate,Hourly,Data Analytics
+1374,Intermediate,Hourly,MySQL Administration
+1375,Intermediate,Hourly,PHP
+1376,Intermediate,Hourly,Python
+1377,Intermediate,Hourly,SQL
+1378,Intermediate,Hourly,Web Design
+1379,Entry,Hourly,Blockchain
+1380,Entry,Hourly,Ethereum
+1381,Intermediate,Hourly,Algorithm Development
+1382,Intermediate,Hourly,Algorithms
+1383,Intermediate,Hourly,Foreign Exchange Trading
+1384,Intermediate,Hourly,Investment Research
+1385,Intermediate,Hourly,Quantitative Analysis
+1386,Entry,Fixed-Price,Android App Development
+1387,Entry,Fixed-Price,Firebase
+1388,Intermediate,Hourly,Data Scraping
+1389,Intermediate,Hourly,ScrapeBox
+1390,Intermediate,Hourly,Web Scraping
+1391,Expert,Hourly,Business Analysis
+1392,Expert,Hourly,Business Continuity Planning
+1393,Expert,Hourly,Disaster Recovery
+1394,Expert,Hourly,Fraud Analysis
+1395,Expert,Hourly,Risk Management
+1396,Intermediate,Fixed-Price,Data Mining
+1397,Intermediate,Fixed-Price,LinkedIn Development
+1398,Intermediate,Hourly,Amazon Web Services
+1399,Intermediate,Hourly,Apache Hive
+1400,Intermediate,Hourly,Apache Spark
+1401,Intermediate,Hourly,Apache Cassandra
+1402,Intermediate,Hourly,Hadoop
+1403,Intermediate,Hourly,Java
+1404,Intermediate,Hourly,Python
+1405,Intermediate,Hourly,Scala
+1406,Intermediate,Fixed-Price,Excel VBA
+1407,Intermediate,Fixed-Price,Financial Analysis
+1408,Intermediate,Fixed-Price,Financial Forecasting
+1409,Intermediate,Fixed-Price,Financial Modeling
+1410,Intermediate,Fixed-Price,Microsoft Excel
+1411,Expert,Fixed-Price,Excel VBA
+1412,Expert,Fixed-Price,Internet Surveys
+1413,Expert,Fixed-Price,Survey Design
+1414,Expert,Fixed-Price,SurveyMonkey
+1415,Entry,Hourly,Internet Research
+1416,Intermediate,Hourly,Analytics
+1417,Intermediate,Hourly,Business Intelligence
+1418,Intermediate,Hourly,Data Science
+1419,Intermediate,Hourly,SQL
+1420,Intermediate,Fixed-Price,Microsoft Excel
+1421,Intermediate,Fixed-Price,Typing
+1422,Expert,Hourly,Argus
+1423,Expert,Hourly,Financial Analysis
+1424,Expert,Hourly,Financial Modeling
+1425,Expert,Hourly,Real Estate Appraisal
+1426,Expert,Hourly,Real Estate IDX
+1427,Expert,Hourly,Real Estate Law
+1428,Expert,Hourly,Real Estate Management
+1429,Expert,Hourly,Statistics
+1430,Expert,Hourly,Artificial Intelligence
+1431,Expert,Hourly,Big Data
+1432,Expert,Hourly,Business Analysis
+1433,Expert,Hourly,Business Proposal Writing
+1434,Expert,Hourly,Data Analytics
+1435,Expert,Hourly,Healthcare Information Technology
+1436,Expert,Hourly,Market Research
+1437,Expert,Hourly,Requirements Analysis
+1438,Intermediate,Hourly,Microsoft Excel
+1439,Intermediate,Fixed-Price,Python
+1440,Intermediate,Fixed-Price,Scrapy
+1441,Intermediate,Fixed-Price,Selenium
+1442,Intermediate,Hourly,Business Intelligence
+1443,Intermediate,Hourly,Data Analytics
+1444,Intermediate,Hourly,Data Visualization
+1445,Intermediate,Hourly,Machine Learning
+1446,Intermediate,Hourly,Microsoft Excel
+1447,Intermediate,Hourly,Python
+1448,Intermediate,Hourly,R
+1449,Entry,Fixed-Price,English
+1450,Intermediate,Fixed-Price,Data Analytics
+1451,Intermediate,Fixed-Price,Data Science
+1452,Intermediate,Fixed-Price,JSON
+1453,Intermediate,Fixed-Price,R
+1454,Entry,Hourly,Business Planning
+1455,Entry,Hourly,Data Analytics
+1456,Entry,Hourly,Data Visualization
+1457,Entry,Hourly,Excel VBA
+1458,Entry,Hourly,Financial Analysis
+1459,Entry,Hourly,Financial Modeling
+1460,Entry,Hourly,Google Analytics
+1461,Entry,Hourly,Google Spreadsheets
+1462,Entry,Hourly,Google Tag Manager
+1463,Entry,Hourly,Microsoft Excel
+1464,Expert,Fixed-Price,Image Processing
+1465,Expert,Fixed-Price,Python
+1466,Entry,Fixed-Price,Data Entry
+1467,Entry,Fixed-Price,Microsoft Excel
+1468,Intermediate,Hourly,Data Modeling
+1469,Intermediate,Hourly,Oracle PLSQL
+1470,Expert,Hourly,Data Scraping
+1471,Expert,Hourly,Web Scraping
+1472,Entry,Hourly,A/B Testing
+1473,Entry,Hourly,Analytics
+1474,Entry,Hourly,Digital Marketing
+1475,Entry,Hourly,Google Analytics
+1476,Entry,Hourly,Marketing Automation
+1477,Intermediate,Fixed-Price,Data Entry
+1478,Intermediate,Fixed-Price,Microsoft Excel
+1479,Intermediate,Fixed-Price,Microsoft Word
+1480,Intermediate,Hourly,MongoDB
+1481,Intermediate,Hourly,Python
+1482,Entry,Hourly,B2B Marketing
+1483,Entry,Hourly,Data Mining
+1484,Entry,Hourly,Data Scraping
+1485,Entry,Hourly,Internet Research
+1486,Entry,Hourly,Lead Generation
+1487,Entry,Fixed-Price,API Development
+1488,Entry,Hourly,Alibaba Sourcing
+1489,Entry,Hourly,Data Mining
+1490,Entry,Hourly,Sourcing
+1491,Entry,Hourly,Virtual Assistant
+1492,Intermediate,Hourly,Artificial Intelligence
+1493,Intermediate,Hourly,Chatbot Development
+1494,Intermediate,Hourly,Data Analytics
+1495,Intermediate,Hourly,Data Science
+1496,Intermediate,Hourly,Machine Learning
+1497,Intermediate,Hourly,Natural Language Processing
+1498,Intermediate,Hourly,Statistics
+1499,Expert,Hourly,A/B Testing
+1500,Expert,Hourly,Conversion Rate Optimization
+1501,Entry,Fixed-Price,Data Mining
+1502,Entry,Fixed-Price,Data Scraping
+1503,Entry,Fixed-Price,MySQL Administration
+1504,Entry,Hourly,Mathematics
+1505,Entry,Hourly,Risk Management
+1506,Intermediate,Fixed-Price,Data Scraping
+1507,Intermediate,Fixed-Price,Web Scraping
+1508,Expert,Hourly,Analytics
+1509,Expert,Hourly,Data Analytics
+1510,Expert,Hourly,Data Science
+1511,Expert,Hourly,R
+1512,Expert,Hourly,Statistics
+1513,Intermediate,Fixed-Price,Operations Research
+1514,Intermediate,Fixed-Price,Data Entry
+1515,Intermediate,Fixed-Price,Data Scraping
+1516,Intermediate,Fixed-Price,Internet Research
+1517,Intermediate,Fixed-Price,Microsoft Excel
+1518,Intermediate,Fixed-Price,Python
+1519,Intermediate,Fixed-Price,Web Scraping
+1520,Intermediate,Hourly,Algorithm Development
+1521,Intermediate,Hourly,Algorithms
+1522,Intermediate,Hourly,Artificial Intelligence
+1523,Intermediate,Hourly,Data Mining
+1524,Intermediate,Hourly,Data Science
+1525,Intermediate,Hourly,Genetic Algorithms
+1526,Intermediate,Hourly,Machine Learning
+1527,Intermediate,Hourly,Python
+1528,Entry,Fixed-Price,JavaScript
+1529,Intermediate,Fixed-Price,Data Visualization
+1530,Intermediate,Fixed-Price,Microsoft Excel
+1531,Intermediate,Fixed-Price,Microsoft Power BI
+1532,Intermediate,Fixed-Price,SQL
+1533,Intermediate,Fixed-Price,Data Visualization
+1534,Intermediate,Fixed-Price,Microsoft Access Programming
+1535,Intermediate,Fixed-Price,Microsoft Power BI
+1536,Entry,Fixed-Price,Data Analytics
+1537,Entry,Fixed-Price,Google AdWords
+1538,Entry,Fixed-Price,Marketing Strategy
+1539,Entry,Fixed-Price,Search Engine Optimization (SEO)
+1540,Entry,Fixed-Price,SEO Keyword Research
+1541,Intermediate,Hourly,Microsoft Excel
+1542,Intermediate,Hourly,Microsoft Excel PowerPivot
+1543,Intermediate,Hourly,Microsoft PowerPoint
+1544,Intermediate,Hourly,Microsoft SharePoint Administration
+1545,Intermediate,Hourly,Microsoft SharePoint Development
+1546,Intermediate,Hourly,MS Office 365
+1547,Expert,Fixed-Price,B2B Marketing
+1548,Expert,Fixed-Price,Content Writing
+1549,Expert,Fixed-Price,Copywriting
+1550,Expert,Fixed-Price,Email Marketing
+1551,Expert,Fixed-Price,Facebook Marketing
+1552,Expert,Fixed-Price,Google AdWords
+1553,Expert,Fixed-Price,Internet Marketing
+1554,Expert,Fixed-Price,Landing Pages
+1555,Expert,Fixed-Price,Lead Generation
+1556,Expert,Fixed-Price,Marketing Strategy
+1557,Expert,Fixed-Price,Pay Per Click Advertising
+1558,Expert,Fixed-Price,Search Engine Optimization (SEO)
+1559,Expert,Fixed-Price,Social Media Marketing
+1560,Expert,Fixed-Price,WordPress
+1561,Intermediate,Fixed-Price,Data Analytics
+1562,Intermediate,Hourly,LibreOffice
+1563,Intermediate,Hourly,GNU Octave
+1564,Intermediate,Hourly,Statistical Computing
+1565,Expert,Hourly,Quantitative Analysis
+1566,Expert,Hourly,Stata
+1567,Expert,Hourly,Statistics
+1568,Entry,Fixed-Price,Data Mining
+1569,Entry,Fixed-Price,C
+1570,Entry,Fixed-Price,Data Mining
+1571,Entry,Fixed-Price,Data Scraping
+1572,Entry,Fixed-Price,Java
+1573,Entry,Fixed-Price,PHP
+1574,Entry,Fixed-Price,Python
+1575,Entry,Fixed-Price,Ruby on Rails
+1576,Entry,Fixed-Price,Web Scraping
+1577,Entry,Hourly,Python
+1578,Entry,Hourly,Python Numpy
+1579,Entry,Hourly,TensorFlow
+1580,Intermediate,Hourly,Data Science
+1581,Intermediate,Hourly,Machine Learning
+1582,Intermediate,Hourly,Python
+1583,Entry,Hourly,Data Mining
+1584,Entry,Hourly,Data Scraping
+1585,Entry,Hourly,Python
+1586,Entry,Hourly,Web Scraping
+1587,Intermediate,Fixed-Price,Machine Learning
+1588,Entry,Fixed-Price,Data Mining
+1589,Entry,Fixed-Price,Excel VBA
+1590,Entry,Fixed-Price,Microsoft Excel
+1591,Entry,Fixed-Price,Python
+1592,Entry,Fixed-Price,Spreadsheets
+1593,Expert,Fixed-Price,Data Analytics
+1594,Expert,Fixed-Price,Machine Learning
+1595,Expert,Fixed-Price,Research
+1596,Expert,Fixed-Price,Writing
+1597,Intermediate,Hourly,Analytics
+1598,Intermediate,Hourly,Content Marketing
+1599,Intermediate,Hourly,Content Strategy
+1600,Intermediate,Hourly,Google Analytics
+1601,Intermediate,Hourly,SEO Audit
+1602,Intermediate,Hourly,SEO Keyword Research
+1603,Intermediate,Hourly,SEOMoz
+1604,Expert,Fixed-Price,Cover Letter Writing
+1605,Entry,Hourly,Analytics
+1606,Entry,Hourly,Data Encoding
+1607,Entry,Hourly,Data Extraction
+1608,Entry,Hourly,Data Mining
+1609,Entry,Hourly,Data Scraping
+1610,Entry,Hourly,Database Caching
+1611,Entry,Hourly,"""Extract, Transform and Load (ETL)"""
+1612,Entry,Hourly,LinkedIn Development
+1613,Entry,Hourly,Scrapy
+1614,Entry,Hourly,Web Scraping
+1615,Entry,Hourly,Chatbot Development
+1616,Entry,Hourly,Data Entry
+1617,Entry,Hourly,Data Mining
+1618,Entry,Hourly,Data Science
+1619,Entry,Hourly,Data Scraping
+1620,Entry,Hourly,Deep Learning
+1621,Entry,Hourly,Drip Marketing
+1622,Entry,Hourly,Email Marketing
+1623,Entry,Hourly,Excel VBA
+1624,Entry,Hourly,Facebook Marketing
+1625,Entry,Hourly,Instagram Marketing
+1626,Entry,Hourly,Internet Marketing
+1627,Entry,Hourly,Internet Research
+1628,Entry,Hourly,Lead Generation
+1629,Entry,Hourly,LinkedIn Development
+1630,Entry,Hourly,Machine Learning
+1631,Entry,Hourly,Microsoft Excel
+1632,Entry,Hourly,Python
+1633,Entry,Hourly,Social Media Management
+1634,Entry,Hourly,Social Media Marketing
+1635,Entry,Hourly,Virtual Assistant
+1636,Entry,Hourly,Web Scraping
+1637,Expert,Fixed-Price,Machine Learning
+1638,Expert,Fixed-Price,Natural Language Processing
+1639,Expert,Fixed-Price,Python
+1640,Expert,Fixed-Price,Web Scraping
+1641,Expert,Hourly,Blog Writing
+1642,Expert,Hourly,Internet Research
+1643,Expert,Hourly,On-Page Optimization
+1644,Expert,Hourly,SEO Keyword Research
+1645,Intermediate,Fixed-Price,Data Scraping
+1646,Intermediate,Fixed-Price,Internet Research
+1647,Intermediate,Fixed-Price,Lead Generation
+1648,Intermediate,Fixed-Price,Microsoft Excel
+1649,Entry,Hourly,Microsoft Excel
+1650,Entry,Hourly,Microsoft Excel
+1651,Entry,Hourly,Python SciPy
+1652,Intermediate,Fixed-Price,Data Mining
+1653,Intermediate,Fixed-Price,Lead Generation
+1654,Intermediate,Fixed-Price,Real Estate IDX
+1655,Intermediate,Hourly,Content Writing
+1656,Intermediate,Hourly,Illustration
+1657,Intermediate,Hourly,Microsoft PowerPoint
+1658,Intermediate,Hourly,Presentation Design
+1659,Intermediate,Hourly,Presentations
+1660,Expert,Hourly,Data Science
+1661,Expert,Hourly,Machine Learning
+1662,Expert,Hourly,Python
+1663,Intermediate,Hourly,MySQL Administration
+1664,Expert,Fixed-Price,Analytics
+1665,Expert,Fixed-Price,Data Analytics
+1666,Expert,Fixed-Price,Google Analytics
+1667,Expert,Fixed-Price,Mathematics
+1668,Entry,Hourly,Financial Analysis
+1669,Entry,Hourly,Financial Forecasting
+1670,Entry,Hourly,Microsoft Excel
+1671,Intermediate,Hourly,Apache Spark
+1672,Intermediate,Hourly,Python
+1673,Intermediate,Hourly,SPARQL
+1674,Entry,Fixed-Price,Research
+1675,Expert,Fixed-Price,Adobe InDesign
+1676,Expert,Fixed-Price,Data Visualization
+1677,Expert,Fixed-Price,Graphic Design
+1678,Expert,Fixed-Price,Microsoft Excel
+1679,Expert,Fixed-Price,Presentation Design
+1680,Intermediate,Fixed-Price,TensorFlow
+1681,Intermediate,Fixed-Price,Transcription
+1682,Intermediate,Fixed-Price,HTML
+1683,Intermediate,Fixed-Price,PHP
+1684,Intermediate,Fixed-Price,Web Scraping
+1685,Intermediate,Fixed-Price,Data Entry
+1686,Intermediate,Fixed-Price,Data Mining
+1687,Intermediate,Fixed-Price,Google Docs
+1688,Intermediate,Fixed-Price,Google Search
+1689,Intermediate,Fixed-Price,Internet Research
+1690,Intermediate,Fixed-Price,Data Mining
+1691,Intermediate,Fixed-Price,Data Scraping
+1692,Intermediate,Fixed-Price,Mozenda Scraper
+1693,Intermediate,Fixed-Price,Regular Expressions
+1694,Entry,Hourly,Data Analytics
+1695,Entry,Hourly,Econometrics
+1696,Entry,Hourly,Microsoft Excel
+1697,Entry,Hourly,Stata
+1698,Expert,Hourly,Computer Vision
+1699,Expert,Hourly,Image Processing
+1700,Expert,Hourly,OCR Tesseract
+1701,Expert,Hourly,OpenCV
+1702,Intermediate,Hourly,Bitcoin
+1703,Intermediate,Hourly,Excel VBA
+1704,Intermediate,Hourly,IMacros
+1705,Intermediate,Fixed-Price,API Development
+1706,Intermediate,Fixed-Price,Google Spreadsheets
+1707,Intermediate,Fixed-Price,HTML
+1708,Intermediate,Fixed-Price,Microsoft Excel
+1709,Expert,Hourly,Bash Shell Scripting
+1710,Expert,Hourly,Unix Shell
+1711,Intermediate,Hourly,Data Mining
+1712,Intermediate,Hourly,Data Scraping
+1713,Intermediate,Hourly,Web Crawler
+1714,Intermediate,Fixed-Price,Amazon Web Services
+1715,Intermediate,Fixed-Price,BitBucket
+1716,Intermediate,Fixed-Price,Django
+1717,Intermediate,Fixed-Price,Jenkins
+1718,Intermediate,Fixed-Price,Jupyter
+1719,Intermediate,Fixed-Price,PostgreSQL Programming
+1720,Intermediate,Fixed-Price,Python
+1721,Intermediate,Hourly,Data Mining
+1722,Intermediate,Fixed-Price,C#
+1723,Intermediate,Fixed-Price,Digital Signal Processing
+1724,Intermediate,Fixed-Price,Microsoft Excel
+1725,Expert,Fixed-Price,Data Analytics
+1726,Expert,Fixed-Price,Excel VBA
+1727,Expert,Fixed-Price,Microsoft Excel
+1728,Expert,Fixed-Price,SQL
+1729,Expert,Fixed-Price,SQL Programming
+1730,Intermediate,Fixed-Price,Data Entry
+1731,Intermediate,Fixed-Price,Financial Analysis
+1732,Intermediate,Fixed-Price,Financial Modeling
+1733,Intermediate,Fixed-Price,Microsoft Excel
+1734,Intermediate,Fixed-Price,Statistics
+1735,Intermediate,Fixed-Price,Stock Management
+1736,Intermediate,Hourly,Internet Research
+1737,Intermediate,Hourly,Research
+1738,Intermediate,Fixed-Price,Data Entry
+1739,Intermediate,Fixed-Price,Data Scraping
+1740,Intermediate,Fixed-Price,Lead Generation
+1741,Intermediate,Fixed-Price,Microsoft Excel
+1742,Intermediate,Hourly,Data Mining
+1743,Expert,Hourly,EasyLanguage
+1744,Expert,Hourly,Lua
+1745,Expert,Hourly,MetaTrader 4 (MT4)
+1746,Expert,Hourly,NinjaTrader
+1747,Expert,Hourly,TradeStation
+1748,Intermediate,Hourly,App Usability Analysis
+1749,Intermediate,Hourly,Usability Testing
+1750,Expert,Fixed-Price,Analytics
+1751,Expert,Fixed-Price,Data Entry
+1752,Intermediate,Hourly,Microsoft Power BI
+1753,Entry,Hourly,Chinese
+1754,Entry,Hourly,Data Entry
+1755,Expert,Hourly,API Development
+1756,Expert,Hourly,Business Intelligence
+1757,Expert,Hourly,Mapinfo
+1758,Expert,Hourly,Microsoft Excel
+1759,Expert,Hourly,Microsoft Excel PowerPivot
+1760,Expert,Fixed-Price,Data Visualization
+1761,Expert,Fixed-Price,Machine Learning
+1762,Expert,Fixed-Price,Microsoft Power BI
+1763,Expert,Fixed-Price,Microsoft Windows Azure
+1764,Expert,Hourly,Business Intelligence
+1765,Expert,Hourly,Data Analytics
+1766,Expert,Hourly,Data Visualization
+1767,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1768,Expert,Hourly,Microsoft Excel
+1769,Expert,Hourly,Microsoft Power BI
+1770,Intermediate,Hourly,Statistics
+1771,Intermediate,Fixed-Price,Analytics
+1772,Intermediate,Fixed-Price,Machine Learning
+1773,Intermediate,Fixed-Price,Python
+1774,Intermediate,Fixed-Price,R
+1775,Intermediate,Hourly,Data Mining
+1776,Intermediate,Hourly,Data Science
+1777,Intermediate,Hourly,Database Design
+1778,Intermediate,Hourly,Machine Learning
+1779,Intermediate,Hourly,Statistics
+1780,Intermediate,Hourly,Teaching Algebra
+1781,Intermediate,Hourly,Apache Spark
+1782,Intermediate,Hourly,Data Science
+1783,Intermediate,Hourly,Machine Learning
+1784,Intermediate,Hourly,Python
+1785,Intermediate,Hourly,R
+1786,Intermediate,Hourly,Scikit-Learn
+1787,Intermediate,Hourly,Data Scraping
+1788,Intermediate,Hourly,Web Scraping
+1789,Entry,Hourly,Economics
+1790,Expert,Hourly,Excel VBA
+1791,Expert,Fixed-Price,d3.js
+1792,Expert,Fixed-Price,Microsoft Power BI
+1793,Expert,Fixed-Price,MicroStrategy
+1794,Intermediate,Fixed-Price,Data Analytics
+1795,Intermediate,Fixed-Price,Data Science
+1796,Intermediate,Fixed-Price,Data Visualization
+1797,Intermediate,Fixed-Price,Microsoft Excel
+1798,Intermediate,Fixed-Price,Statistics
+1799,Intermediate,Fixed-Price,Tableau Software
+1800,Expert,Hourly,Biostatistics
+1801,Expert,Hourly,SAS
+1802,Expert,Hourly,Statistics
+1803,Entry,Fixed-Price,Pipedrive
+1804,Intermediate,Fixed-Price,Excel VBA
+1805,Intermediate,Fixed-Price,Data Mining
+1806,Intermediate,Fixed-Price,Data Scraping
+1807,Entry,Hourly,Amazon Webstore
+1808,Entry,Hourly,WordPress
+1809,Expert,Hourly,Machine Learning
+1810,Expert,Hourly,Python
+1811,Expert,Hourly,Quantitative Analysis
+1812,Entry,Hourly,Data Modeling
+1813,Intermediate,Fixed-Price,Data Entry
+1814,Intermediate,Fixed-Price,Google Spreadsheets
+1815,Intermediate,Fixed-Price,Microsoft Excel
+1816,Expert,Fixed-Price,Conversion Rate Optimization
+1817,Expert,Fixed-Price,Search Engine Optimization (SEO)
+1818,Expert,Fixed-Price,SEO Audit
+1819,Expert,Fixed-Price,SEO Keyword Research
+1820,Intermediate,Fixed-Price,Data Analytics
+1821,Intermediate,Fixed-Price,Mathematics
+1822,Intermediate,Fixed-Price,MATLAB
+1823,Expert,Fixed-Price,Artificial Neural Networks
+1824,Expert,Fixed-Price,Deep Learning
+1825,Expert,Fixed-Price,Image Processing
+1826,Expert,Fixed-Price,Machine Learning
+1827,Expert,Fixed-Price,Python
+1828,Expert,Fixed-Price,TensorFlow
+1829,Intermediate,Hourly,Bitcoin
+1830,Intermediate,Hourly,Excel VBA
+1831,Intermediate,Hourly,Microsoft Excel
+1832,Intermediate,Fixed-Price,Excel VBA
+1833,Intermediate,Fixed-Price,MATLAB
+1834,Intermediate,Fixed-Price,Microsoft Excel
+1835,Expert,Hourly,Analytics
+1836,Expert,Hourly,Data Visualization
+1837,Expert,Hourly,Microsoft Power BI
+1838,Expert,Hourly,SQL
+1839,Intermediate,Fixed-Price,Data Entry
+1840,Intermediate,Fixed-Price,Data Mining
+1841,Intermediate,Fixed-Price,Data Scraping
+1842,Intermediate,Fixed-Price,Microsoft Excel
+1843,Intermediate,Fixed-Price,Data Entry
+1844,Intermediate,Fixed-Price,Data Mining
+1845,Intermediate,Fixed-Price,Data Scraping
+1846,Intermediate,Fixed-Price,Analytics
+1847,Intermediate,Fixed-Price,IBM SPSS
+1848,Intermediate,Fixed-Price,Stata
+1849,Intermediate,Hourly,Algorithm Development
+1850,Intermediate,Hourly,Algorithms
+1851,Intermediate,Hourly,Foreign Exchange Trading
+1852,Intermediate,Hourly,MongoDB
+1853,Intermediate,Hourly,Python
+1854,Intermediate,Hourly,Microsoft Excel
+1855,Entry,Fixed-Price,Data Analytics
+1856,Entry,Fixed-Price,Mathematics
+1857,Entry,Fixed-Price,Quantitative Analysis
+1858,Entry,Fixed-Price,Statistics
+1859,Expert,Fixed-Price,Database Design
+1860,Expert,Fixed-Price,Intuit QuickBooks
+1861,Expert,Fixed-Price,Microsoft SQL Server Administration
+1862,Expert,Fixed-Price,SQL
+1863,Expert,Fixed-Price,SQL Server Integration Services (SSIS)
+1864,Entry,Fixed-Price,Data Entry
+1865,Entry,Fixed-Price,Data Scraping
+1866,Entry,Fixed-Price,Internet Research
+1867,Entry,Fixed-Price,Microsoft Excel
+1868,Intermediate,Hourly,Data Analytics
+1869,Intermediate,Hourly,Data Science
+1870,Intermediate,Hourly,Machine Learning
+1871,Expert,Hourly,Machine Learning
+1872,Expert,Hourly,OCR Algorithms
+1873,Expert,Hourly,OCR Tesseract
+1874,Entry,Fixed-Price,Data Mining
+1875,Entry,Fixed-Price,Data Scraping
+1876,Expert,Hourly,CSS
+1877,Expert,Hourly,Data Visualization
+1878,Expert,Hourly,JavaScript
+1879,Expert,Hourly,User Interface Design
+1880,Intermediate,Fixed-Price,Business Intelligence
+1881,Intermediate,Fixed-Price,QlikTech QlikView
+1882,Expert,Fixed-Price,Google Tag Manager
+1883,Intermediate,Hourly,Data Analytics
+1884,Intermediate,Hourly,Data Entry
+1885,Intermediate,Hourly,"""Extract, Transform and Load (ETL)"""
+1886,Intermediate,Hourly,Excel VBA
+1887,Intermediate,Hourly,IMacros
+1888,Intermediate,Hourly,Microsoft Excel
+1889,Intermediate,Hourly,Microsoft Excel PowerPivot
+1890,Intermediate,Hourly,VBA
+1891,Entry,Hourly,Data Mining
+1892,Entry,Hourly,Data Scraping
+1893,Entry,Hourly,Analytics
+1894,Entry,Hourly,Data Analytics
+1895,Entry,Hourly,Data Entry
+1896,Entry,Hourly,Facebook Marketing
+1897,Entry,Hourly,Internet Research
+1898,Entry,Hourly,Market Research
+1899,Entry,Hourly,Social Media Marketing
+1900,Intermediate,Fixed-Price,Machine Learning
+1901,Intermediate,Fixed-Price,MATLAB
+1902,Expert,Hourly,API Development
+1903,Expert,Hourly,API Documentation
+1904,Expert,Hourly,Data Analytics
+1905,Expert,Hourly,Data Science
+1906,Expert,Hourly,Google Analytics
+1907,Expert,Hourly,Google Analytics API
+1908,Entry,Hourly,Data Entry
+1909,Entry,Hourly,Data Mining
+1910,Entry,Hourly,Internet Research
+1911,Entry,Hourly,Microsoft Excel
+1912,Entry,Hourly,R
+1913,Entry,Hourly,Virtual Assistant
+1914,Expert,Hourly,Amazon Web Services
+1915,Expert,Hourly,Chef
+1916,Expert,Hourly,Java
+1917,Expert,Hourly,Node.js
+1918,Expert,Hourly,Project Management
+1919,Entry,Hourly,Cognos
+1920,Entry,Hourly,Data Analytics
+1921,Entry,Hourly,Financial Reporting
+1922,Entry,Hourly,Microsoft Excel
+1923,Entry,Hourly,Microsoft Excel PowerPivot
+1924,Intermediate,Fixed-Price,Machine Learning
+1925,Intermediate,Fixed-Price,3D Modeling
+1926,Intermediate,Fixed-Price,ANSYS
+1927,Intermediate,Fixed-Price,Big Data
+1928,Intermediate,Fixed-Price,Excel VBA
+1929,Intermediate,Fixed-Price,MongoDB
+1930,Intermediate,Fixed-Price,SQL CLR
+1931,Expert,Hourly,Financial Modeling
+1932,Expert,Hourly,Investment Research
+1933,Expert,Hourly,Quantitative Analysis
+1934,Entry,Hourly,Data Entry
+1935,Intermediate,Hourly,Image Processing
+1936,Intermediate,Hourly,API Development
+1937,Intermediate,Hourly,Data Visualization
+1938,Intermediate,Hourly,Machine Learning
+1939,Intermediate,Hourly,Natural Language Processing
+1940,Intermediate,Hourly,Python
+1941,Intermediate,Hourly,Scikit-Learn
+1942,Expert,Hourly,Adaptive Algorithms
+1943,Intermediate,Fixed-Price,Data Analytics
+1944,Intermediate,Fixed-Price,Qualitative Research
+1945,Intermediate,Fixed-Price,Research
+1946,Expert,Fixed-Price,Data Mining
+1947,Intermediate,Hourly,Data Analytics
+1948,Intermediate,Hourly,Financial Analysis
+1949,Intermediate,Hourly,Foreign Exchange Trading
+1950,Intermediate,Hourly,Technical Analysis
+1951,Intermediate,Hourly,Virtual Currency
+1952,Intermediate,Hourly,Tableau Software
+1953,Intermediate,Hourly,Atlas
+1954,Intermediate,Hourly,DoubleClick for Publishers
+1955,Intermediate,Hourly,Google Analytics
+1956,Intermediate,Hourly,Microsoft Excel
+1957,Intermediate,Hourly,Data Entry
+1958,Intermediate,Hourly,JSON
+1959,Intermediate,Hourly,Podio
+1960,Intermediate,Hourly,Virtual Assistant
+1961,Entry,Fixed-Price,Data Analytics
+1962,Entry,Fixed-Price,Data Visualization
+1963,Entry,Fixed-Price,Excel VBA
+1964,Entry,Fixed-Price,Microsoft Excel
+1965,Entry,Fixed-Price,Microsoft Excel PowerPivot
+1966,Entry,Fixed-Price,Microsoft Power BI
+1967,Intermediate,Hourly,Business Intelligence
+1968,Intermediate,Hourly,Data Analytics
+1969,Intermediate,Hourly,Data Visualization
+1970,Intermediate,Hourly,Drawing
+1971,Intermediate,Hourly,Infographics
+1972,Intermediate,Hourly,Tableau Software
+1973,Intermediate,Hourly,Visualization
+1974,Expert,Hourly,Deep Learning
+1975,Expert,Hourly,Image Processing
+1976,Expert,Hourly,Machine Learning
+1977,Expert,Hourly,Python
+1978,Expert,Fixed-Price,SAP Crystal Reports
+1979,Expert,Fixed-Price,Oracle PL/SQL
+1980,Expert,Hourly,Data Warehousing
+1981,Expert,Hourly,"""Extract, Transform and Load (ETL)"""
+1982,Expert,Hourly,Excel VBA
+1983,Expert,Hourly,Microsoft Excel
+1984,Expert,Hourly,VBA
+1985,Entry,Hourly,Microsoft Excel
+1986,Entry,Fixed-Price,Data Entry
+1987,Entry,Fixed-Price,Microsoft Excel
+1988,Entry,Fixed-Price,SEO Keyword Research
+1989,Expert,Fixed-Price,Business Analysis
+1990,Expert,Fixed-Price,Customer Support
+1991,Expert,Fixed-Price,Data Science
+1992,Expert,Fixed-Price,Market Analysis
+1993,Expert,Fixed-Price,Excel VBA
+1994,Expert,Fixed-Price,Microsoft Excel
+1995,Expert,Hourly,Web Crawling
+1996,Expert,Hourly,Data Extraction
+1997,Expert,Hourly,Data Scraping
+1998,Expert,Hourly,Web Scraping
+1999,Entry,Fixed-Price,Graph Databases
+2000,Entry,Fixed-Price,Statistical Computing
+2001,Intermediate,Fixed-Price,Data Extraction
+2002,Intermediate,Fixed-Price,Data Scraping
+2003,Entry,Hourly,Email Marketing
+2004,Entry,Hourly,Internet Research
+2005,Entry,Hourly,Research
+2006,Entry,Fixed-Price,Amazon Webstore
+2007,Entry,Fixed-Price,Microsoft Excel
+2008,Entry,Hourly,Equity Research
+2009,Entry,Hourly,Security Analysis
+2010,Expert,Hourly,Analytics
+2011,Expert,Hourly,Data Extraction
+2012,Expert,Hourly,Facebook Development
+2013,Expert,Hourly,Psychometric Examination
+2014,Expert,Fixed-Price,Magento
+2015,Expert,Fixed-Price,PHP
+2016,Expert,Fixed-Price,Responsive Web Design
+2017,Expert,Fixed-Price,Shopify
+2018,Expert,Fixed-Price,WordPress
+2019,Intermediate,Hourly,Data Analytics
+2020,Intermediate,Hourly,Qualitative Research
+2021,Intermediate,Hourly,Microsoft Excel
+2022,Intermediate,Hourly,Google Apps API
+2023,Intermediate,Hourly,Python
+2024,Expert,Fixed-Price,Amazon MWS
+2025,Expert,Fixed-Price,Amazon Web Services
+2026,Expert,Fixed-Price,SQL Programming
+2027,Intermediate,Fixed-Price,Big Data
+2028,Expert,Hourly,Data Scraping
+2029,Intermediate,Fixed-Price,Microsoft Excel
+2030,Entry,Hourly,Analytics
+2031,Entry,Hourly,Financial Analysis
+2032,Entry,Hourly,Financial Risk
+2033,Entry,Hourly,Microsoft Excel
+2034,Entry,Hourly,Research
+2035,Entry,Hourly,Technical Analysis
+2036,Entry,Hourly,Virtual Currency
+2037,Intermediate,Fixed-Price,Data Scraping
+2038,Intermediate,Fixed-Price,Microsoft Excel PowerPivot
+2039,Expert,Hourly,Elasticsearch
+2040,Expert,Hourly,Kibana
+2041,Entry,Hourly,R
+2042,Entry,Hourly,Stata
+2043,Expert,Hourly,Adobe Flash
+2044,Expert,Hourly,Adobe Illustrator
+2045,Expert,Hourly,Adobe Photoshop
+2046,Expert,Hourly,Mobile UI Design
+2047,Expert,Hourly,Web Design
+2048,Expert,Hourly,Microsoft Access Administration
+2049,Expert,Hourly,Microsoft Access Programming
+2050,Expert,Hourly,Microsoft Excel
+2051,Expert,Hourly,Six Sigma
+2052,Expert,Hourly,VBA
+2053,Intermediate,Hourly,Editing
+2054,Intermediate,Hourly,Microsoft Excel
+2055,Intermediate,Hourly,Microsoft Word
+2056,Intermediate,Hourly,Proofreading
+2057,Intermediate,Hourly,Technical Editing
+2058,Entry,Hourly,Data Mining
+2059,Entry,Hourly,Google Analytics
+2060,Entry,Hourly,Google Tag Manager
+2061,Expert,Hourly,Google Analytics
+2062,Expert,Hourly,Google Tag Manager
+2063,Intermediate,Fixed-Price,Instagram Marketing
+2064,Intermediate,Fixed-Price,Internet Marketing
+2065,Intermediate,Fixed-Price,Internet Research
+2066,Intermediate,Fixed-Price,Social Media Management
+2067,Intermediate,Fixed-Price,Social Media Marketing
+2068,Entry,Fixed-Price,Bitcoin
+2069,Entry,Fixed-Price,Data Analytics
+2070,Entry,Fixed-Price,Data Cleansing
+2071,Intermediate,Fixed-Price,Data Mining
+2072,Intermediate,Fixed-Price,HTML
+2073,Intermediate,Fixed-Price,Marketing Automation
+2074,Intermediate,Fixed-Price,Ansible
+2075,Intermediate,Fixed-Price,DevOps
+2076,Intermediate,Fixed-Price,Jenkins
+2077,Expert,Hourly,Data Analytics
+2078,Expert,Hourly,Microsoft Excel
+2079,Expert,Hourly,SQL
+2080,Expert,Hourly,Tableau Software
+2081,Intermediate,Fixed-Price,API Development
+2082,Intermediate,Fixed-Price,Data Entry
+2083,Intermediate,Fixed-Price,Wikipedia
+2084,Intermediate,Fixed-Price,Data Science
+2085,Intermediate,Fixed-Price,Data Scraping
+2086,Intermediate,Fixed-Price,Internet Research
+2087,Intermediate,Fixed-Price,Research
+2088,Intermediate,Hourly,Big Data
+2089,Intermediate,Hourly,Tableau Software
+2090,Intermediate,Fixed-Price,Data Entry
+2091,Intermediate,Fixed-Price,Data Mining
+2092,Intermediate,Fixed-Price,Internet Research
+2093,Intermediate,Fixed-Price,Microsoft Excel
+2094,Expert,Fixed-Price,Big Data
+2095,Expert,Fixed-Price,Biotechnology
+2096,Expert,Fixed-Price,Data Analytics
+2097,Expert,Fixed-Price,Data Mining
+2098,Expert,Fixed-Price,Deep Learning
+2099,Expert,Fixed-Price,Functional Testing
+2100,Expert,Fixed-Price,Machine Learning
+2101,Entry,Fixed-Price,Data Mining
+2102,Entry,Fixed-Price,Excel VBA
+2103,Entry,Fixed-Price,Microsoft Excel
+2104,Entry,Fixed-Price,VBA
+2105,Intermediate,Hourly,CRM
+2106,Intermediate,Hourly,Enterprise Software
+2107,Intermediate,Hourly,Management Development
+2108,Intermediate,Hourly,Management Skills
+2109,Intermediate,Hourly,SAP
+2110,Expert,Fixed-Price,Artificial Neural Networks
+2111,Expert,Fixed-Price,Deep Learning
+2112,Expert,Fixed-Price,Image Processing
+2113,Expert,Fixed-Price,Machine Learning
+2114,Expert,Fixed-Price,Python
+2115,Expert,Fixed-Price,TensorFlow
+2116,Intermediate,Hourly,Data Science
+2117,Intermediate,Hourly,Microsoft Excel
+2118,Intermediate,Hourly,Algorithm Development
+2119,Intermediate,Hourly,Python
+2120,Intermediate,Hourly,Data Analytics
+2121,Intermediate,Hourly,Data Modeling
+2122,Intermediate,Hourly,Excel VBA
+2123,Intermediate,Hourly,Financial Analysis
+2124,Intermediate,Hourly,Financial Forecasting
+2125,Intermediate,Hourly,Financial Modeling
+2126,Intermediate,Hourly,JavaScript
+2127,Intermediate,Hourly,MATLAB
+2128,Intermediate,Hourly,Microsoft Excel
+2129,Intermediate,Hourly,MS Office 365
+2130,Intermediate,Hourly,Statistical Computing
+2131,Intermediate,Hourly,VBA
+2132,Intermediate,Fixed-Price,Java
+2133,Intermediate,Fixed-Price,Python
+2134,Expert,Hourly,Analytics
+2135,Expert,Hourly,Data Analytics
+2136,Expert,Hourly,Google Analytics
+2137,Expert,Hourly,Web Analytics
+2138,Intermediate,Hourly,Data Analytics
+2139,Intermediate,Hourly,Data Entry
+2140,Intermediate,Hourly,Data Mining
+2141,Intermediate,Hourly,Data Scraping
+2142,Intermediate,Hourly,Market Research
+2143,Intermediate,Hourly,Web Scraping
+2144,Expert,Fixed-Price,Microsoft Excel
+2145,Intermediate,Fixed-Price,Perl
+2146,Entry,Fixed-Price,Data Entry
+2147,Entry,Fixed-Price,Data Mining
+2148,Entry,Fixed-Price,Data Scraping
+2149,Entry,Fixed-Price,Google Search
+2150,Entry,Fixed-Price,Internet Research
+2151,Entry,Fixed-Price,Lead Generation
+2152,Entry,Fixed-Price,Market Research
+2153,Entry,Fixed-Price,Microsoft Excel
+2154,Entry,Fixed-Price,Python
+2155,Entry,Fixed-Price,Web Scraping
+2156,Entry,Hourly,Data Entry
+2157,Entry,Hourly,Data Mining
+2158,Entry,Hourly,Data Scraping
+2159,Entry,Hourly,Internet Research
+2160,Entry,Hourly,Data Analytics
+2161,Entry,Hourly,Data Entry
+2162,Entry,Hourly,Data Mining
+2163,Entry,Hourly,Data Scraping
+2164,Entry,Hourly,Internet Research
+2165,Entry,Hourly,Lead Generation
+2166,Entry,Hourly,Data Entry
+2167,Entry,Hourly,Internet Research
