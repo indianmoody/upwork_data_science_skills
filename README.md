@@ -1,6 +1,6 @@
 # upwork_data_science_skills
 
-Aim is to find most sought-after technical skills by Data Science job posters on 'upwork.com'. Also, there is listing of desired skills based on experience of freelancers. There are some surprising inclusions in lists while some hyped skills are not so popular on Upwork.
+Found most sought-after technical skills by Data Science job posters on 'upwork.com'. Also, there is listing of desired skills based on experience of freelancers. There are some surprising inclusions in lists while some hyped skills are not so popular on Upwork.
 
 ## Getting Started
 The data is scraped from 'upwork.com' job posting fot Data Scientists and Analysts. The scraping code is in 'skills_posted.ipynb' and data is stored in 'job_postings_data.csv'. The analysis of skills is done under file 'skills_analysis.ipynb'.
